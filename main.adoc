@@ -22,19 +22,24 @@
 :toc-title: Contents
 :toclevels: 0
 
-include::{includes}/dedication.adoc[]
-
-include::{includes}/foreword.adoc[]
-
-include::{includes}/preface.adoc[]
-
 include::{includes}/titlepage.adoc[]
 
-include::{includes}/01-chapter-one.adoc[]
+include::{includes}/00-introduction.adoc[]
 
-include::{includes}/02-chapter-two.adoc[]
+include::{includes}/01-keep-moving-on.adoc[]
 
-include::{includes}/glossary.adoc[]
+include::{includes}/02-confidently-not-knowing.adoc[]
+
+include::{includes}/03-the-art-of-meditation.adoc[]
+
+include::{includes}/04-unafraid-to-care.adoc[]
+
+include::{includes}/05-the-right-sort-of-peace.adoc[]
+
+include::{includes}/06-susceptible-to-understanding.adoc[]
+
+include::{includes}/07-free-from-assumptions.adoc[]
+
+include::{includes}/08-epilogue.adoc[]
 
 include::{includes}/copyright.adoc[]
-

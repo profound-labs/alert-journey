@@ -1,9 +1,6 @@
 [#titlepage]
 = {booktitle}
 
-[#titlepage-description]
-== {description} 
-
 [role=titlepage-author]
 {author}
 
@@ -14,4 +11,14 @@ image::{pubs-logo}[role=titlepage-pubs-logo]
 
 [role=titlepage-publisher-website]
 link:{publisher-link-url}[{publisher-link-name}]
+
+<<<<
+
+[quote, Dhammapada v.91]
+____
+Alert to the needs of the journey, +
+those on the path of awareness, +
+like swans, glide on, +
+leaving behind their former resting places.
+____
 
