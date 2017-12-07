@@ -42,4 +42,6 @@ include::{includes}/07-free-from-assumptions.adoc[]
 
 include::{includes}/08-epilogue.adoc[]
 
+include::{includes}/end-notes.adoc[]
+
 include::{includes}/copyright.adoc[]

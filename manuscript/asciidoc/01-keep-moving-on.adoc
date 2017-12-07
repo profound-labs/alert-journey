@@ -1,9 +1,10 @@
 = Keep Moving On
 
-_Alert to the needs of the journey, those on the path of awareness, like
-swans, glide on, leaving behind their former resting places._
-
-_Dhammapada 91_
+[quote, Dhammapada 91]
+____
+Alert to the needs of the journey, those on the path of awareness, like
+swans, glide on, leaving behind their former resting places.
+____
 
 Let us consider together this short teaching from the Buddha.
 
@@ -16,7 +17,8 @@ relief from the burden of suffering. Whatever it was that brought us to
 the beginning of this path, we all benefit from the encouragement
 offered by those who have travelled ahead of us.
 
-Here, in this Dhammapada verse 91 (1), the Buddha is pointing out the
+Here, in this Dhammapada verse 91footnote:[See <<end-notes#dhammapada-aruno,End Notes, A Dhammapada for Contemplation>>.],
+the Buddha is pointing out the
 benefit of cultivating a willingness to keep beginning again in our
 practice. He doesn't want us to settle anywhere short of realizing the
 goal of freedom. He wants us to keep practising whatever happens.
@@ -29,22 +31,23 @@ times we might feel as if we are sinking in a swamp of doubt. The Buddha
 encourages us not to settle anywhere, but to keep letting go until the
 wisdom that knows the way to freedom becomes perfectly clear.
 
-__Training To See With Insight +
-__Fortunately for us, throughout the centuries this Theravada Buddhist
+== Training To See With Insight
+
+Fortunately for us, throughout the centuries this Theravada Buddhist
 tradition has maintained tried and tested teachings on the cultivation
 of letting go in the pursuit of wisdom. The teachers and the tradition
 are still readily available to offer us guidance. And there will
 definitely be times in our training when we need that guidance.
 
 There is a word in the Pali language that we recite in our chanting when
-describing the qualities of the Buddha: _lokavidu,_ which means 'one who
-knows the world'. 'Knowing' here refers to a direct, transformative kind
+describing the qualities of the Buddha: _lokavidu_, which means '`one who
+knows the world`'. '`Knowing`' here refers to a direct, transformative kind
 of knowing. It is not the knowing with which we are generally familiar,
 a knowing _about_ things. This path of practice is characterised not by
 what we learn about on it, but by the effort we make to develop a fresh,
 new way of seeing.
 
-When we say _Dhammam saranam gacchami_, 'I go for refuge to the Dhamma',
+When we say _Dhammam saranam gacchami_, '`I go for refuge to the Dhamma`',
 we are saying that more than anything else we are interested in seeing
 the reality of the world. Here the world is not just the outer world,
 but the inner worlds too, all that we create in our minds. Being a
@@ -55,7 +58,8 @@ information we can accumulate about the world, but now we are learning
 to see what the world looks like when we have let go of habits of
 clinging. We are training to see with insight.
 
-_Not Believing_ +
+== Not Believing
+
 There will be times when we feel love and gratitude towards our teachers
 and the tradition, and probably there will be times when we don't. I
 spent the early years of my monastic training, most of the period
@@ -94,8 +98,9 @@ its instability and the fruitlessness of our habits of clinging. Wisdom
 sees how the clinging creates resistance and causes suffering. The
 warm-hearted expression of such wisdom is compassion.
 
-__Becoming Stuck +
-__The Buddha doesn't want us to settle too soon, but to keep moving on
+== Becoming Stuck
+
+The Buddha doesn't want us to settle too soon, but to keep moving on
 until we arrive at real wisdom and compassion. It is because of
 unawareness regarding the truth of our preferences – our liking and
 disliking – that our view of the world is distorted. Having preferences
@@ -107,11 +112,11 @@ suffer.
 Before his enlightenment the Buddha-to-be was also lost in liking and
 disliking, he too was fooled by the way the world appeared to be and
 suffered accordingly. When he felt happy he believed 'I am happy'. When
-he felt sad, he believed 'I am sad'. But eventually, growing tired of
+he felt sad, he believed '`I am sad`'. But eventually, growing tired of
 the mediocrity of such an existence, he set out in search of a solution.
 He trained his inner spiritual faculties to the point where eventually
 he could see beyond all the conditioned activity of mind, beyond the
-'world', to what he referred to as the unconditioned. From that point
+'`world`', to what he referred to as the unconditioned. From that point
 onward he knew directly that whatever conditions arose in his mind, they
 were simply passing through. Nothing could get stuck. He was fully freed
 and fully available to bring benefit into the world.
@@ -126,14 +131,16 @@ that we are doing the clinging, we are doing the suffering; it is not
 something external that is happening to us. Whether gross or refined,
 the same principle applies.
 
-__The Discourse on the Heartwood +
-__One reason for emphasizing the importance of establishing practice on
+== The Discourse on the Heartwood
+
+One reason for emphasizing the importance of establishing practice on
 the principle of beginning again, over and over, is because the
 temptation to settle, to get stuck, can arise at any stage. We don't
 only need to be careful about our coarse fluctuating moods. It is also
 possible to become stuck in refined levels of concentration.
 
-My first meditation teacher in Thailand, Ajahn Thate (2), was very adept
+My first meditation teacher in Thailand, Ajahn Thatefootnote:[See <<end-notes#ajahn-tate,End Notes, Ajahn Tate>>.]
+was very adept
 at abiding in highly refined states of samadhi. He relates how he spent
 ten years stuck in unproductive states of tranquillity. It took the
 penetrative insight and helpful support of Ajahn Mun to guide him away
@@ -141,8 +148,9 @@ from his fondness for samadhi and, by establishing his meditation in
 body contemplation, to proceed towards awakening.
 
 Some of you will be familiar with the discourse by the Buddha known as
-the _Mahasaropama Sutta_ (3), the Discourse on the Simile of the
-Heartwood. In this teaching the Buddha likens someone setting out in
+the _Mahasaropama Sutta_footnote:[See <<end-notes#mahasaropama-sutta,End Notes, Mahasaropama Sutta>>.],
+the __Discourse on the Simile of the Heartwood__.
+In this teaching the Buddha likens someone setting out in
 pursuit of awakening to someone going in search of heartwood, the most
 valuable portion of a tree. Initially spiritual aspirants trust that
 reaching the goal is possible and are energized into making an effort.
@@ -165,8 +173,10 @@ insight is likened to the seeker becoming contented with a portion of
 the sapwood. It is not until full awakening is reached that the Buddha
 says the seeker has arrived at the heartwood.
 
-_ +
-Beginning Again_ +
+== Beginning Again
+
+// TODO @@ edited up to here
+
 At any stage of practice we can be fooled into believing that 'this is
 good enough' and abandon making efforts. We manage the risk of this
 happening in advance by cultivating the wholesome habit of willingly
