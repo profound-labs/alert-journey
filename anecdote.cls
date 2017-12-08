@@ -142,11 +142,11 @@
 \definecolor{header}{gray}{0.2}
 \definecolor{footer}{gray}{0.2}
 \definecolor{chapternum}{gray}{0.8}
-\definecolor{chaptertitle}{gray}{0.2}
+\definecolor{chaptertitle}{gray}{0.3}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.5}
+\definecolor{section}{gray}{0.3}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -157,51 +157,75 @@
 % === Load fonts ===
 
 \RequirePackage{fontspec}
-\defaultfontfeatures{ Ligatures={TeX}, Path = {./assets/fonts/}, }
+\defaultfontfeatures{Ligatures={TeX}}
 
 % If -- dashes don't work for your font, try
 % Renderer = Basic
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson-Roman.otf,
+  SmallCapsFont = Crimson Roman,
   SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = Gentium Plus Italic,
+  BoldFont = Gentium Book Basic Bold,
+  BoldItalicFont = Gentium Book Basic Bold Italic,
+]{Gentium Plus}
 
 \newfontfamily\crimsonRomanFont[
   SmallCapsFeatures= { LetterSpace = 0.2 },
-  BoldFont = Crimson-Semibold.otf,
-  ItalicFont = Crimson-Italic.otf,
-]{Crimson-Roman.otf}
+  BoldFont = Crimson Semibold,
+  ItalicFont = Crimson Italic,
+]{Crimson Roman}
 
 \newfontfamily\crimsonRomanFontOldNum[
   Numbers = OldStyle,
-]{Crimson-Roman.otf}
+]{Crimson Roman}
 
 \newfontfamily\gentiumFont[
-  ItalicFont = GentiumPlus-I.ttf,
-  BoldFont = GenBkBasB.ttf,
-  BoldItalicFont = GenBkBasBI.ttf,
-]{GentiumPlus-R.ttf}
+  ItalicFont = Gentium Plus Italic,
+  BoldFont = Gentium Book Basic Bold,
+  BoldItalicFont = Gentium Book Basic Bold Italic,
+]{Gentium Plus}
+
+\newfontfamily\alegreyaSansLightFont[
+  ItalicFont = Alegreya Sans Light Italic,
+]{Alegreya Sans Light}
+
+\newfontfamily\hattoriHanzoLightFont[
+  ItalicFont = Hattori Hanzo Light Italic,
+]{Hattori Hanzo Light}
+
+\newfontfamily\merriweatherSansFont[
+  ItalicFont = Merriweather Sans Italic,
+]{Merriweather Sans}
+
+\newfontfamily\merriweatherSansLightFont[
+  ItalicFont = Merriweather Sans Light Italic,
+]{Merriweather Sans Light}
+
+\newfontfamily\sourceSansProLightFont[
+  ItalicFont = Source Sans Pro Light Italic,
+]{Source Sans Pro Light}
+
+\newfontfamily\shakerLightFont[
+  ItalicFont = Shaker 2 Light Italic,
+]{Shaker 2 Light}
 
 % header and footer
 
-\newcommand\headerFont\crimsonRomanFont
-\newcommand\footerFont\gentiumFont
-\newcommand\pageNumFont\gentiumFont
+\newcommand\headerFont\merriweatherSansFont
+\newcommand\footerFont\merriweatherSansFont
+\newcommand\pageNumFont\merriweatherSansFont
 
 % chapter and section
 
-\newcommand\partTitleFont\crimsonRomanFont
+\newcommand\partTitleFont\alegreyaSansLightFont
 
-\newcommand\chapterNameFont\crimsonRomanFont
-\newcommand\chapterTitleFont\crimsonRomanFont
-\newcommand\chapterNumberFont\crimsonRomanFont
-\newcommand\chapterAuthorFont\crimsonRomanFont
-\newcommand\chapterNoteFont\crimsonRomanFont
+\newcommand\chapterNameFont\shakerLightFont
+\newcommand\chapterTitleFont\shakerLightFont
+\newcommand\chapterNumberFont\merriweatherSansLightFont
+\newcommand\chapterAuthorFont\shakerLightFont
+\newcommand\chapterNoteFont\shakerLightFont
 
 \newcommand\sectionFont\crimsonRomanFont
 
@@ -211,19 +235,23 @@
 
 % toc
 
-\newcommand\tocFont\crimsonRomanFont
-\newcommand\tocFontOldNum\crimsonRomanFontOldNum
+\newcommand\tocFont\alegreyaSansLightFont
+\newfontfamily\tocFontOldNum[
+  ItalicFont = Alegreya Sans Light Italic,
+  Numbers = OldStyle,
+]{Alegreya Sans Light}
 
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {22}{24}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {13}{16.5}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {40}{40}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {18}{20}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
-\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {13}{15}}
-\newcommand{\footerSize}{\@setfontsize               \footerSize               {10.5}{10.5}}
-\newcommand{\headerSize}{\@setfontsize               \headerSize               {10}{10}}
+\newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {10}{13}}
+\newcommand{\footerSize}{\@setfontsize               \footerSize               {7}{8}}
+\newcommand{\headerSize}{\@setfontsize               \headerSize               {7}{8}}
+\newcommand{\pageNumSize}{\@setfontsize              \pageNumSize              {8}{8}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -231,7 +259,7 @@
 
 % foreign language wrappers
 
-\newfontfamily\thaiFont{Kinnari.ttf}
+\newfontfamily\thaiFont{Kinnari}
 
 \newcommand*\thai[1]{{\thaiFont #1}}
 
@@ -239,8 +267,7 @@
 
 \RequirePackage[final,babel=true]{microtype}
 
-% Tracking for uppercase section heading
-\SetTracking[spacing={400,100,}]{encoding=*, family={Crimson-Roman.otf}}{20}
+\SetTracking[spacing={350,100,}]{encoding=*, family=Shaker 2 Light}{40}
 
 % === hyperref ===
 
@@ -856,23 +883,97 @@ philo-sophical munindo amaravati thai-land}
   \textit{\leftmark}\hspace*{1em}$\cdot$\hspace*{1em}\thepage%
 }
 
+\NewCoffin\HeadWrapBox
+\NewCoffin\HeadTitleBox
+\NewCoffin\HeadNumberBox
+\NewCoffin\HeadRuleBox
+
+\NewCoffin\FootWrapBox
+\NewCoffin\FootTitleBox
+\NewCoffin\FootNumberBox
+\NewCoffin\FootRuleBox
+
+\newlength\headLetterXWidth
+\setlength{\headLetterXWidth}{\widthof{\headerFont\headerSize X}}
+
+\makepagestyle{mitsumi}
+
+% TODO: check position to paper and textbox
+\makeevenhead{mitsumi}{%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -20pt -28pt},\LenToUnit{\paperheight - 22pt}){%
+      \SetHorizontalCoffin\HeadTitleBox{%
+        \begin{minipage}{\headLetterXWidth}%
+          \centering\setlength{\parskip}{10pt}%
+          \color[gray]{0.4}%
+          \headerFont\headerSize
+          U\\ N\\ E\\ X\\ P\\ E\\ C\\ T\\ E\\ D\par  F\\ R\\ E\\ E\\ D\\ O\\ M\par
+        \end{minipage}%
+      }%
+      \SetHorizontalCoffin\HeadNumberBox{%
+        \color[gray]{0.4}%
+        \pageNumFont\pageNumSize%
+        \thepage%
+      }%
+      \SetHorizontalCoffin\HeadRuleBox{%
+        \color[gray]{0.4}\rule{0.2pt}{90mm}%
+      }%
+      \JoinCoffins*\HeadNumberBox[r,t]\HeadRuleBox[r,t](7pt, 0pt)%
+      \JoinCoffins*\HeadNumberBox[r,t]\HeadTitleBox[r,t](0pt, -25pt)%
+      \JoinCoffins\HeadWrapBox\HeadNumberBox
+      \TypesetCoffin\HeadWrapBox
+  }}%
+}{}{}
+\makeevenfoot{mitsumi}{}{}{}
+\makeoddhead{mitsumi}{}{}{}
+
+% TODO: check position to paper and textbox
+\makeoddfoot{mitsumi}{}{}{%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\spinemargin + \textwidth + 28pt},\LenToUnit{30pt}){%
+      \SetHorizontalCoffin\FootTitleBox{%
+        \begin{minipage}{\headLetterXWidth}%
+          \centering\setlength{\parskip}{10pt}%
+          \color[gray]{0.4}%
+          \footerFont\footerSize
+          \theChapterTitleVertical\par%
+        \end{minipage}%
+      }%
+      \SetHorizontalCoffin\FootNumberBox{%
+        \color[gray]{0.4}%
+        \pageNumFont\pageNumSize%
+        \thepage%
+      }%
+      \SetHorizontalCoffin\FootRuleBox{%
+        \color[gray]{0.4}\rule{0.2pt}{90mm}%
+      }%
+      \JoinCoffins*\FootNumberBox[l,b]\FootRuleBox[l,b](-7pt, 0pt)%
+      \JoinCoffins*\FootNumberBox[l,t]\FootTitleBox[l,b](0pt, 46pt)%
+      \JoinCoffins\FootWrapBox\FootNumberBox
+      \TypesetCoffin\FootWrapBox
+  }}%
+}
+
+\makepsmarks{mitsumi}{%
+  \nouppercaseheads%
+  \createmark{chapter}{right}{shownumber}{\@chapapp\ }{. \ }%
+}
+
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
-  \color{footer}%
+  \color[gray]{0.4}%
+  \pageNumFont\pageNumSize%
   \thepage%
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
-  \color{footer}%
+  \color[gray]{0.4}%
+  \pageNumFont\pageNumSize%
   \thepage%
 }{}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{topbottomcentered}
+\aliaspagestyle{normalpage}{mitsumi}
 \aliaspagestyle{chapter}{bottomcenter}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
@@ -1061,8 +1162,8 @@ philo-sophical munindo amaravati thai-land}
   \itshape #1%
 }
 
-\newcommand*{\theChapterNote}{}
-\newcommand*{\chapterNote}[1]{%
+\newcommand{\theChapterNote}{}
+\newcommand{\chapterNote}[1]{%
   \chapternotetrue%
   \renewcommand*\theChapterNote{#1}%
 }
@@ -1078,165 +1179,13 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand*\theChapterFootnoteText{\footnotetext{#2}}%
 }
 
+\newcommand*{\theChapterTitleVertical}{}
+\newcommand{\chapterTitleVertical}[1]{%
+  \renewcommand*\theChapterTitleVertical{#1}%
+}
+
 \newlength\chapterTitleLeftSkip
 \setlength{\chapterTitleLeftSkip}{17pt}
-
-\makechapterstyle{lowtitle}{
-  \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\chapterTitleLeftSkip}{17pt}
-  \renewcommand\printchaptername{}
-  \renewcommand\chapternamenum{}
-  \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
-  \renewcommand\printchapternum{%
-    \chapnumfont\color{chapternum}%
-    \hspace*{\chapterTitleLeftSkip}\thechapter%
-  }
-  \setlength{\midchapskip}{2\onelineskip}
-  \renewcommand\afterchapternum{\par\nobreak\vskip \midchapskip}
-  \renewcommand\printchapternonum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize}
-  \renewcommand*\printchaptertitle[1]{%
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \raggedright\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
-      \ifchapterfootnote%
-        \hspace*{2pt}\theChapterFootnoteMark%
-      \fi%
-      \ifchapterauthor%
-        \vskip 0.5\onelineskip%
-        \chapterAuthorFmt{\theChapterAuthor}%
-        \global\chapterauthorfalse%
-      \fi%
-      \ifchapternote%
-        \vskip 0.5\onelineskip%
-        \chapterNoteFmt{\theChapterNote}%
-        \global\chapternotefalse%
-      \fi%
-    }%
-    \ifchapterfootnote%
-      \theChapterFootnoteText%
-      \global\chapterfootnotefalse%
-    \fi%
-  }
-  \setlength{\afterchapskip}{2.5\onelineskip}
-  \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
-}
-
-\makechapterstyle{hightitle}{
-  \chapterstyle{lowtitle}
-  \setlength{\beforechapskip}{0pt}
-  \setlength{\chapterTitleLeftSkip}{0pt}
-  \renewcommand*\printchaptertitle[1]{%
-    {%
-      \centering\chaptitlefont\color{chaptertitle}%
-      \textls*{\MakeUppercase{##1}}%
-      \par
-    }%
-  }
-}
-
-\makechapterstyle{bellatrix}{%
-  \chapterstyle{default}
-  \setlength{\beforechapskip}{40mm}
-  \setlength{\chapindent}{0.5in}
-  \setlength{\midchapskip}{-2pt}
-  \setlength{\afterchapskip}{32pt}
-  \renewcommand\chapnumfont{%
-    \chapterNumberFont%
-    \chapterNumberSize%
-    \color{chapternum}%
-    \itshape%
-  }
-  \renewcommand\chapnamefont{\chapnumfont}
-  \renewcommand\chaptitlefont{%
-    \chapterTitleFont%
-    \chapterTitleSize%
-    \color{chaptertitle}%
-    \upshape%
-  }
-  \renewcommand\afterchapternum{\par\nobreak\vspace*{\midchapskip}}
-  \renewcommand\printchaptername{\hspace*{\chapindent}\chapnamefont \@chapapp}
-  \renewcommand\chapternamenum{\space}
-  \renewcommand\printchapternum{\chapnumfont \numtoName{\c@chapter}}
-  \renewcommand\printchapternonum{\vspace*{-47pt}}
-  \renewcommand*\printchaptertitle[1]{%
-    \begin{adjustwidth}{\chapindent}{}
-      \raggedright%
-      {\chaptitlefont\textls{\MakeUppercase{##1}}}%
-      \ifchapterfootnote%
-        \hspace*{0.8mm}\theChapterFootnoteMark%
-      \fi%
-      \ifchapterauthor%
-        \vskip 0.5\onelineskip%
-        \chapterAuthorFmt{\theChapterAuthor}%
-        \global\chapterauthorfalse%
-      \fi%
-      \ifchapternote%
-        \vskip 0.5\onelineskip%
-        \chapterNoteFmt{\theChapterNote}%
-        \global\chapternotefalse%
-      \fi%
-    \end{adjustwidth}%
-    \ifchapterfootnote%
-      \theChapterFootnoteText%
-      \global\chapterfootnotefalse%
-    \fi%
-  }
-}
-
-% Mintaka - Delta Orionis
-\makechapterstyle{mintaka}{%
-  \chapterstyle{bellatrix}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\afterchapskip}{54pt}
-  \renewcommand\chaptitlefont{%
-    \chapterTitleFont%
-    \chapterTitleSize%
-    \color{chaptertitle}%
-    \itshape%
-  }
-  \renewcommand\afterchapternum{}
-  \renewcommand\printchaptername{}
-  \renewcommand\printchapternum{}
-  \renewcommand\printchapternonum{\vspace*{-47pt}}
-  \renewcommand*\printchaptertitle[1]{%
-    \begin{adjustwidth}{\chapindent}{}
-      \raggedright%
-      {%
-        \chaptitlefont ##1%
-        \ifchapterfootnote%
-          \chapterTitleFootnoteSize%
-          \color{chaptertitlefootnote}%
-          \hspace*{0.8mm}\raisebox{5pt}{\theChapterFootnoteMark}%
-        \fi%
-      }%
-      \ifchapterauthor%
-        \vskip 0.5\onelineskip%
-        \chapterAuthorFmt{\theChapterAuthor}%
-        \global\chapterauthorfalse%
-      \fi%
-      \ifchapternote%
-        \vskip 0.5\onelineskip%
-        \chapterNoteFmt{\theChapterNote}%
-        \global\chapternotefalse%
-      \fi%
-    \end{adjustwidth}%
-    \ifchapterfootnote%
-      \theChapterFootnoteText%
-      \global\chapterfootnotefalse%
-    \fi%
-  }
-}
-
-\makechapterstyle{mintaka-backmatter}{%
-  \chapterstyle{mintaka}
-  \renewcommand\printchapternum{\vspace*{-47pt}}
-  \renewcommand\printchapternonum{\vspace*{-47pt}}
-  \setlength{\beforechapskip}{30mm}
-  \setlength{\afterchapskip}{20pt}
-}
 
 \newlength\chapterNumberWidth
 \newlength\chapterTitleYOffset
@@ -1255,7 +1204,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{shedir}{
   \chapterstyle{default}
-  \setlength{\beforechapskip}{30mm}
+  \setlength{\beforechapskip}{20mm}
   \setlength{\chapterTitleLeftSkip}{0pt}
   \renewcommand\printchaptername{}
   \renewcommand\chapternamenum{}
@@ -1333,153 +1282,16 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\titlealign{\raggedright}
 }
 
-% === Caph ===
-%
-% Chapter title size: 18 / 20 pt
-
-\makechapterstyle{caph}{
-  \chapterstyle{default}
-  \setlength{\beforechapskip}{10mm}
-  \setlength{\chapterTitleLeftSkip}{0pt}
-  \renewcommand\printchaptername{}
-  \renewcommand\chapternamenum{}
-  \renewcommand\chapnumfont{\chapterNumberFont\chapterNumberSize}
-  \if@mainmatter
-    \setlength{\chapterNumberWidth}{\widthof{\chapnumfont 99.} + 10pt}
-  \else
-    \setlength{\chapterNumberWidth}{0pt}
-  \fi
-  \renewcommand\printchapternum{}
-  \renewcommand\afterchapternum{}
-  \renewcommand\printchapternonum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
-  \renewcommand\titlealign{\if@mainmatter \raggedright \else \centering \fi}
-  \renewcommand*\printchaptertitle[1]{%
-    % ===
-    \SetHorizontalCoffin\ChapterNumberBox{%
-      \parbox{\chapterNumberWidth}{%
-        \if@mainmatter
-          \chapnumfont\color{chapternum}%
-          \hspace*{\chapterTitleLeftSkip}\thechapter .%
-        \else
-          \mbox{}%
-        \fi
-      }%
-    }%
-    % ===
-    \SetHorizontalCoffin\ChapterNumberRuleBox{%
-      \color{gray!80}\rule{150pt}{1pt}%
-    }%
-    % ===
-    \SetHorizontalCoffin\ChapterTitleBox{%
-      \parbox{\linewidth - \chapterTitleLeftSkip - \chapterNumberWidth}{%
-        \titlealign
-        \chaptitlefont\color{chaptertitle}%
-        ##1%
-        \ifchapterfootnote%
-          \hspace*{2pt}\theChapterFootnoteMark%
-        \fi%
-        \ifchapterauthor%
-          \vskip 0.5\onelineskip%
-          \chapterAuthorFmt{\theChapterAuthor}%
-          \global\chapterauthorfalse%
-        \fi%
-        \ifchapternote%
-          \vskip 0.5\onelineskip%
-          \chapterNoteFmt{\theChapterNote}%
-          \global\chapternotefalse%
-        \fi%
-        \ifchapterfootnote%
-          \theChapterFootnoteText%
-          \global\chapterfootnotefalse%
-        \fi%
-      }%
-    }%
-    % ===
-    \JoinCoffins*\ChapterNumberBox[r,b]\ChapterNumberRuleBox[r,t](0pt,-10pt)%
-    \JoinCoffins\ChapterNumberBox[r,b]\ChapterTitleBox[l,t](0pt,-40pt)%
-    \JoinCoffins\ChapterWrapBox\ChapterNumberBox%
-    %
-    \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \TypesetCoffin\ChapterWrapBox%
-  }
-  \setlength{\afterchapskip}{2.5\onelineskip}
-  \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
-}
-
-\makechapterstyle{caph-high}{
-  \chapterstyle{caph}
-  \setlength{\beforechapskip}{0pt}
-}
-
-\makechapterstyle{caph-toc}{
-  \chapterstyle{caph-high}
-  \setlength{\chapterTitleLeftSkip}{6pc}
-  \setlength{\afterchapskip}{1.5\onelineskip}
-  \renewcommand\titlealign{\raggedright}
-}
-
-\newif\ifchaptertitleleft
-\chaptertitleleftfalse
-
-\makechapterstyle{mirzam}{
-  \chapterstyle{lowtitle}
-  \def\setchapterspaces{%
-    \setlength{\midchapskip}{1.5\onelineskip}
-    \if@mainmatter
-      \setlength{\beforechapskip}{2\onelineskip}%
-      \setlength{\afterchapskip}{3.5\onelineskip}%
-    \else
-      \setlength{\beforechapskip}{0pt}%
-      \setlength{\afterchapskip}{2.5\onelineskip}%
-    \fi
-    \ifchaptertitleleft
-      \setlength{\chapterTitleLeftSkip}{6pc}%
-    \else
-      \setlength{\chapterTitleLeftSkip}{0pt}%
-    \fi
-  }
-  \def\chapterheadstart{
-    \setchapterspaces%
-    \vspace*{\beforechapskip}
-  }%
-  \renewcommand\printchapternum{}
-  \renewcommand\afterchapternum{}
-  \renewcommand\chaptitlefont{\chapterTitleFont\chapterTitleSize\itshape}
-  \renewcommand*\printchaptertitle[1]{%
-    \ifchaptertitleleft
-      \raggedright\hspace*{\chapterTitleLeftSkip}%
-    \else
-      \centering
-    \fi
-    \parbox{\linewidth - \chapterTitleLeftSkip}{%
-      \ifchaptertitleleft
-        \raggedright
-      \else
-        \centering
-      \fi
-      \chaptitlefont\color{chaptertitle}%
-      {##1}%
-    }%
-    \if@mainmatter
-      \par
-      \vspace*{\midchapskip}%
-      {\centering%
-        \includegraphics[width=0.9\linewidth]{mark-crop}%
-      \par}%
-    \fi
-  }
-}
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
 
 % No numbers in chapter mark
 %\createmark{chapter}{left}{nonumber}{}{}
 
-\newcommand\frontmatterChapterStyle{\chapterstyle{hightitle}}
-\newcommand\mainmatterChapterStyle{\chapterstyle{lowtitle}}
-\newcommand\appendixChapterStyle{\chapterstyle{hightitle}}
-\newcommand\backmatterChapterStyle{\chapterstyle{hightitle}}
+\newcommand\frontmatterChapterStyle{\chapterstyle{shedir-high}}
+\newcommand\mainmatterChapterStyle{\chapterstyle{shedir}}
+\newcommand\appendixChapterStyle{\chapterstyle{shedir-high}}
+\newcommand\backmatterChapterStyle{\chapterstyle{shedir-high}}
 
 % append them to the macros
 \addtodef{\frontmatter}{}{\frontmatterChapterStyle}
@@ -1500,8 +1312,8 @@ philo-sophical munindo amaravati thai-land}
 %
 % With no glue, the space will be at the bottom of the text block instead.
 
-\setbeforesecskip{-5.5ex \@plus -1ex \@minus -.2ex}
-\setaftersecskip{2.3ex}
+\setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
+\setaftersecskip{2.3ex \@plus .2ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsecskip{2.3ex}
@@ -1514,10 +1326,10 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{11.5}{14}\selectfont%
+  \sectionFont\fontsize{13}{15}\selectfont%
   \color{section}%
-  \centering
-  \textls{\MakeUppercase{#1}}%
+  \memRTLraggedright%
+  \itshape #1%
 }
 
 \newcommand\subsectionFmt[1]{%
@@ -1553,12 +1365,10 @@ philo-sophical munindo amaravati thai-land}
 \def\BOOK@fontSizePt{}
 \def\BOOK@lineHeightPt{}
 
-% Based on 'largepage', with font sizes from 'largevolume' (i.e. Collected Teachings)
-
 % === normalsize ===
 
-\def\BOOK@fontSizePt{10.5}
-\def\BOOK@lineHeightPt{15}
+\def\BOOK@fontSizePt{11}
+\def\BOOK@lineHeightPt{16}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
@@ -1576,7 +1386,7 @@ philo-sophical munindo amaravati thai-land}
 \setlength{\vindent}{\vgap}
 \setlength{\vleftmargin}{2em}
 
-\setlength{\parskip}{8pt}
+\setlength{\parskip}{5pt}
 \setlength{\parindent}{0pt}
 
 % === setup page layout ===
@@ -1599,16 +1409,13 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-% Text block for 10.5 / 15pt:
-%%\settypeblocksize{521pt}{*}{0.599}% 1/1.667, 3:5, major 6th (183.79mm x 110mm)
-%\settypeblocksize{34\baselineskip + \topskip}{*}{0.599}% 1/1.667, 3:5, major 6th
-%\setlrmargins{*}{20mm}{*}% 22.71669mm and 19.99976mm
+% It won't be exactly 33 lines because of the parskip,
+% but close enough for our purpose.
+\settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
+\setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd
+\setulmargins{*}{*}{1.701}% Tall Pentagon, 1.701
 
-\settypeblocksize{190mm}{110mm}{*}
-\setlrmargins{*}{20mm}{*}
-
-\setulmargins{42pt}{*}{*}% Based on Tall Pentagon, 1.701
-\setlength{\footskip}{30pt}
+\setlength{\footskip}{45pt}
 
 % Fixes these warnings:
 %
@@ -1620,45 +1427,6 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
-
-% ******************************************************
-% Stock height and width: 650.43pt by 433.62pt
-% Top and edge trims: 0pt and 0pt
-% Page height and width: 650.43pt by 433.62pt
-% Text height and width: 551pt by 312pt
-% Spine and edge margins: 63.73419pt and 56.9055pt
-% Upper and lower margins: 42pt and 57.43pt
-% Headheight and headsep: 15.6pt and 19.8738pt
-% Footskip: 30pt
-% Columnsep and columnseprule: 10pt and 0pt
-% Marginparsep and marginparwidth: 7pt and 42.9055pt
-% Sidecapsep and sidecapwidth: 7pt and 111pt
-% Sidebarhsep and sidebarwidth: 7pt and 111pt
-% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
-% Sidebarheight: 539.9202pt
-% Sidefoothsep and sidefootwidth: 7pt and 111pt
-% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
-% ******************************************************
-% 
-% 
-% ******************************************************
-% Stock height and width: 228.59732mm by 152.39821mm
-% Top and edge trims: 0mm and 0mm
-% Page height and width: 228.59732mm by 152.39821mm
-% Text height and width: 193.65208mm by 109.65417mm
-% Spine and edge margins: 22.39973mm and 19.99976mm
-% Upper and lower margins: 14.76114mm and 20.1841mm
-% Headheight and headsep: 5.4827mm and 6.98476mm
-% Footskip: 10.54367mm
-% Columnsep and columnseprule: 3.51456mm and 0mm
-% Marginparsep and marginparwidth: 2.46019mm and 15.07938mm
-% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
-% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
-% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
-% Sidebarheight: 189.75801mm
-% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
-% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
-% ******************************************************
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
