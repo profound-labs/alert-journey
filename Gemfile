@@ -10,3 +10,5 @@ gem 'asciidoctor', path: "./vendor/asciidoctor"
 # html templates.
 gem 'asciidoctor-epub3', '1.5.0.gambhiro-develop', path: "./vendor/asciidoctor-epub3"
 
+gem 'asciidoctor-latex', git: 'https://github.com/asciidoctor/asciidoctor-latex.git'
+
