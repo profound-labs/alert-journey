@@ -223,8 +223,13 @@
 
 % toc
 
-\newcommand\tocFont\merriweatherSansLightFont
-\newcommand\tocFontOldNum\merriweatherSansLightFont
+\newcommand\tocFont\shakerLightFont
+\newcommand\tocFontOldNum\shakerLightFont
+
+\newcommand\tocPageNumFont\merriweatherSansLightFont
+
+\newcommand\tocChapterFont\shakerLightFont
+\newcommand\tocChapterNoteFont\shakerLightFont
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -236,7 +241,7 @@
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {10}{13}}
 \newcommand{\footerSize}{\@setfontsize               \footerSize               {7}{8}}
 \newcommand{\headerSize}{\@setfontsize               \headerSize               {7}{8}}
-\newcommand{\pageNumSize}{\@setfontsize              \pageNumSize              {8}{8}}
+\newcommand{\pageNumSize}{\@setfontsize              \pageNumSize              {9}{9}}
 
 \newcommand{\smaller}{\@setfontsize\smaller{9}{11}}
 
@@ -786,7 +791,7 @@ philo-sophical munindo amaravati thai-land}
 % === Renewing package macros ===
 
 \addtodef{\mainmatter}{}{%
-  \addtocontents{toc}{\addvspace{15pt}}%
+  \addtocontents{toc}{\addvspace{10pt}}%
   \setcounter{chapter}{0}%
 }
 
@@ -972,7 +977,7 @@ philo-sophical munindo amaravati thai-land}
 \maxtocdepth{chapter}
 
 % the right TOC margin
-\contentsmargin{-5pt}
+\contentsmargin{0pt}
 
 \newlength\tocLeftWidth
 \setlength\tocLeftWidth{10mm}
@@ -1015,8 +1020,9 @@ philo-sophical munindo amaravati thai-land}
   \fi}
 
 \def\tocChapterNote#1{%
-    \addcontentsline{toc}{chapternote}{%
-    \noexpand\numberline{}#1}%
+  \addcontentsline{toc}{chapternote}{%
+    \noexpand\numberline{}\tocChapterNoteFont\fontsize{10}{12}\selectfont #1%
+  }%
 }
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
@@ -1035,19 +1041,24 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\gentiumFont\selectfont}%
-{\contentsmargin{0pt}}
-{\contentsmargin{0pt}%
-\itshape}
-{\hfill\normalsize\tocFont\thecontentspage}
+{\addvspace{15pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
+{%
+  \contentsmargin{0pt}%
+  \makebox[0pt][r]{%
+    \color[gray]{0.5}%
+    \fontsize{15}{15}\tocPageNumFont\selectfont%
+    \thecontentslabel.%
+    \hspace*{0.5em}%
+  }%
+}
+{\contentsmargin{0pt}\itshape}
+{\hfill\color[gray]{0.2}\pageNumSize\tocPageNumFont\thecontentspage}
 
 \titlecontents{appendix}[\tocLeftWidth]
-{\addvspace{30pt}\fontsize{13}{13}\crimsonRomanFont\bfseries\selectfont}%
-{\contentsmargin{0pt}%
-\itshape}
-{\contentsmargin{0pt}%
-\itshape}
-{\enspace\hfill\normalsize\tocFont\thecontentspage}
+{\addvspace{30pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
+{\contentsmargin{0pt}\itshape}
+{\contentsmargin{0pt}\itshape}
+{\enspace\hfill\normalsize\tocPageNumFont\thecontentspage}
 [\addvspace{0pt}]
 
 % === Book styles ===
@@ -1280,10 +1291,22 @@ philo-sophical munindo amaravati thai-land}
 \newcommand\backmatterChapterStyle{\chapterstyle{shedir-high}}
 
 % append them to the macros
-\addtodef{\frontmatter}{}{\frontmatterChapterStyle}
-\addtodef{\mainmatter}{}{\mainmatterChapterStyle}
-\addtodef{\appendix}{}{\appendixChapterStyle}
-\addtodef{\backmatter}{}{\backmatterChapterStyle}
+\addtodef{\frontmatter}{}{%
+  \frontmatterChapterStyle%
+  \pagestyle{bottomcenter}%
+}
+\addtodef{\mainmatter}{}{%
+  \mainmatterChapterStyle%
+  \pagestyle{normalpage}%
+}
+\addtodef{\appendix}{}{%
+  \appendixChapterStyle%
+  \pagestyle{bottomcenter}%
+}
+\addtodef{\backmatter}{}{%
+  \backmatterChapterStyle%
+  \pagestyle{bottomcenter}%
+}
 
 % === Section styles ===
 
