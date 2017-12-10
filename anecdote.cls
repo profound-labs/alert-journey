@@ -187,14 +187,6 @@
   BoldItalicFont = Gentium Book Basic Bold Italic,
 ]{Gentium Plus}
 
-\newfontfamily\alegreyaSansLightFont[
-  ItalicFont = Alegreya Sans Light Italic,
-]{Alegreya Sans Light}
-
-\newfontfamily\hattoriHanzoLightFont[
-  ItalicFont = Hattori Hanzo Light Italic,
-]{Hattori Hanzo Light}
-
 \newfontfamily\merriweatherSansFont[
   ItalicFont = Merriweather Sans Italic,
 ]{Merriweather Sans}
@@ -202,10 +194,6 @@
 \newfontfamily\merriweatherSansLightFont[
   ItalicFont = Merriweather Sans Light Italic,
 ]{Merriweather Sans Light}
-
-\newfontfamily\sourceSansProLightFont[
-  ItalicFont = Source Sans Pro Light Italic,
-]{Source Sans Pro Light}
 
 \newfontfamily\shakerLightFont[
   ItalicFont = Shaker 2 Light Italic,
@@ -219,7 +207,7 @@
 
 % chapter and section
 
-\newcommand\partTitleFont\alegreyaSansLightFont
+\newcommand\partTitleFont\shakerLightFont
 
 \newcommand\chapterNameFont\shakerLightFont
 \newcommand\chapterTitleFont\shakerLightFont
@@ -235,11 +223,8 @@
 
 % toc
 
-\newcommand\tocFont\alegreyaSansLightFont
-\newfontfamily\tocFontOldNum[
-  ItalicFont = Alegreya Sans Light Italic,
-  Numbers = OldStyle,
-]{Alegreya Sans Light}
+\newcommand\tocFont\merriweatherSansLightFont
+\newcommand\tocFontOldNum\merriweatherSansLightFont
 
 % Some default font sizes, use \renewcommand to adjust
 
@@ -401,12 +386,13 @@ philo-sophical munindo amaravati thai-land}
 \newcommand{\emptyUntilModEight}{%
   \setcounter{origPage}{\theCurrentPage}%
   \setcounter{pageRem}{1 + 8 - ( \theCurrentPage - ( ( \theCurrentPage / 8 ) * 8) )}%
-  \typeout{hey: \theCurrentPage, \theorigPage, \thepageRem}%
+  %\typeout{hey: \theCurrentPage, \theorigPage, \thepageRem}% NOTE only for debugging
   \loop%
     \addtocounter{pageRem}{-1}%
   \ifnum\thepageRem>0%
     \clearpage%
-    hey \theorigPage \space \thepageRem%
+    \thispagestyle{empty}\mbox{}%
+    %hey \theorigPage \space \thepageRem% NOTE only for debugging
   \repeat%
 }
 
