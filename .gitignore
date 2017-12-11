@@ -27,6 +27,7 @@ tags
 *.lof
 *.fls
 *.fdb_latexmk
+*.ent
 auto/
 
 # General macOS

@@ -1,3 +1,10 @@
 \ProvidesPackage{local}
 
 \usepackage{lipsum}
+
+\makepagenote
+\continuousnotenums
+
+\renewcommand{\notenumintext}[1]{\textsuperscript{[#1]}}
+
+\renewcommand{\notenuminnotes}[1]{{\normalfont [#1]}\space}
