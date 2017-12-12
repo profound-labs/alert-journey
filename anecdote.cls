@@ -993,7 +993,7 @@ philo-sophical munindo amaravati thai-land}
 % Appendix A
 \let\ttll@appendix\ttll@chapter
 
-\newcommand*\l@chapternote{\@nodottedtocline{0}{\tocLeftWidth}{1pc}{1pc}}
+\newcommand*\l@chapternote{\@nodottedtocline{0}{\tocLeftWidth}{0.5pc}{0pt}}
 
 \def\@nodottedtocline#1#2#3#4#5#6{%
   \ifnum #1>\c@tocdepth \else
