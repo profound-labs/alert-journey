@@ -889,9 +889,8 @@ philo-sophical munindo amaravati thai-land}
 
 \makepagestyle{mitsumi}
 
-% TODO: check position to paper and textbox
 \makeevenhead{mitsumi}{%
-  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -20pt -28pt},\LenToUnit{\paperheight - 22pt}){%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -57.3pt},\LenToUnit{\paperheight - 22pt}){%
       \SetHorizontalCoffin\HeadTitleBox{%
         \begin{minipage}{\headLetterXWidth}%
           \centering\setlength{\parskip}{10pt}%
@@ -901,9 +900,12 @@ philo-sophical munindo amaravati thai-land}
         \end{minipage}%
       }%
       \SetHorizontalCoffin\HeadNumberBox{%
-        \color[gray]{0.4}%
-        \pageNumFont\pageNumSize%
-        \thepage%
+        \parbox{20pt}{%
+          \raggedleft%
+          \color[gray]{0.4}%
+          \pageNumFont\pageNumSize%
+          \thepage%
+        }%
       }%
       \SetHorizontalCoffin\HeadRuleBox{%
         \color[gray]{0.4}\rule{0.2pt}{90mm}%
@@ -917,9 +919,8 @@ philo-sophical munindo amaravati thai-land}
 \makeevenfoot{mitsumi}{}{}{}
 \makeoddhead{mitsumi}{}{}{}
 
-% TODO: check position to paper and textbox
 \makeoddfoot{mitsumi}{}{}{%
-  \AddToShipoutPictureFG*{\put(\LenToUnit{\spinemargin + \textwidth + 28pt},\LenToUnit{30pt}){%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\spinemargin + \textwidth + 38pt},\LenToUnit{30pt}){%
       \SetHorizontalCoffin\FootTitleBox{%
         \begin{minipage}{\headLetterXWidth}%
           \centering\setlength{\parskip}{10pt}%
@@ -929,9 +930,12 @@ philo-sophical munindo amaravati thai-land}
         \end{minipage}%
       }%
       \SetHorizontalCoffin\FootNumberBox{%
-        \color[gray]{0.4}%
-        \pageNumFont\pageNumSize%
-        \thepage%
+        \parbox{20pt}{%
+          \raggedright%
+          \color[gray]{0.4}%
+          \pageNumFont\pageNumSize%
+          \thepage%
+        }%
       }%
       \SetHorizontalCoffin\FootRuleBox{%
         \color[gray]{0.4}\rule{0.2pt}{90mm}%
