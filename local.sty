@@ -2,14 +2,10 @@
 
 \usepackage{lipsum}
 
-% Don't use the pagenote functionality. Add the notes in notes.tex and simply
-% add the numbers with the formatting commands in the text.
-%\makepagenote
-%\continuousnotenums
-
-\renewcommand{\notenumintext}[1]{\textsuperscript{[#1]}}
-
-\renewcommand{\notenuminnotes}[1]{{\normalfont [#1]}\space}
+% If using babel, captions names have to be renamed like this
+\addto\captionsbritish{
+  \renewcommand{\bibname}{Notes}
+}
 
 % Yellow color page
 % Pantone 124M

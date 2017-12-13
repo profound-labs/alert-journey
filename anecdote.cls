@@ -247,6 +247,8 @@
 
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
 
+\newcommand{\urlsize}{\@setfontsize\urlsize{8}{8}}
+
 % foreign language wrappers
 
 \newfontfamily\thaiFont{Kinnari}
