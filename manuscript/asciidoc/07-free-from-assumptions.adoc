@@ -1,7 +1,5 @@
 = Free From Assumptions
 
-// TODO ask LPM about the title: Free or Freed?
-
 [quote, Ajahn Chah]
 ____
 Enlightenment can happen whether sitting, standing, walking or lying down.
@@ -12,7 +10,7 @@ ____
 
 Readers of the Buddha's discourses will have regularly come across words
 like tethered, bound, chained,
-fetteredfootnote:[See <<end-notes#dhp-276, End Notes, Dhammapada verse 276>>.].
+fetteredfootnote:[See Notes: <<notes#dhp-276, Dhammapada verse 276>>.].
 Such words point powerfully to feelings of limitation, of being constrained. Since the
 Buddha wanted us to feel encouraged on our spiritual journey, why did he
 use negative terms so evocative of painful feelings? Because truly wise
@@ -204,7 +202,7 @@ The vast majority of cultures around the world these days accept the
 assumption that to ‘acquire more’ is to somehow increase our personal
 value – to consume is good. I did a Google search on ‘rampant
 consumerism’ and came across a paper called The Gospel of
-Consumptionfootnote:[See <<end-notes#gospel, End Notes, The Gospel of Consumption>>.].
+Consumptionfootnote:[See Notes: <<notes#gospel, The Gospel of Consumption>>.].
 The article described intentional efforts in the early part of the
 last century to create a society which was in a state or permanent
 dissatisfaction, so that producers would have an limitless market for
@@ -295,7 +293,7 @@ of it. We keep going deeper in our questioning and enquire: in what is
 all this arising and ceasing taking place? Can we sense the space out of
 which all this activity appears and into which it disappears? If we
 train our spiritual
-facultiesfootnote:[See <<end-notes#faculties,End notes, Five spiritual faculties.>>]
+facultiesfootnote:[See Notes: <<notes#faculties, Five spiritual faculties.>>]
 in this way, there is surely a better
 chance that when our physical faculties start to disintegrate, our
 perspective on reality won't disintegrate with them.

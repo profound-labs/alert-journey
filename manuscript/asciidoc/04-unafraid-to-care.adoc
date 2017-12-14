@@ -16,7 +16,7 @@ Now let's look at what may obscure the beauty of caring. We are all
 familiar with the way in which affection leads to hurt when a
 relationship is damaged or lost. If we've experienced such suffering
 after having met the Buddha's teachings on the Four Noble
-Truthsfootnote:[See <<end-notes#four-noble-truths, End notes, Four Noble Truths>>.],
+Truthsfootnote:[See Notes: <<notes#four-noble-truths, The Four Noble Truths by Ajahn Sumedho>>.],
 we have probably wondered whether it is really possible both to care deeply
 _and_ be free from suffering. Can we care without becoming caught in
 clinging and leaving ourselves vulnerable to agonizing heartache?
@@ -102,8 +102,7 @@ time that he came to see for himself the point of consciously caring for
 another.
 
 When we hear that the Buddha taught, ‘You should be your own refuge; how could
-another be your
-refuge?’footnote:[See <<end-notes#dhp-attahi, End Notes, Attā hi attano nātho...>>.],
+another be your refuge?’footnote:[See Notes: <<notes#dhp-attahi, Dhammapada verse 160, ‘Attā hi attano nātho...’>>.],
 we might assume he is saying that
 we should focus on paying attention to ourselves. We need to listen
 really carefully to what the Buddha is saying here; if we don't, we
@@ -282,7 +281,7 @@ our spiritual toolkit, we can feel more confident in our practice of
 meditation. Whether we are developing mindfulness of breathing, focusing
 on listening to the sound of silence
 (sometimes also called
-_nada_)footnote:[See <<end-notes#inner-listening,End Notes, Inner Listening>>.],
+_nada_)footnote:[See Notes: <<notes#inner-listening, Inner Listening by Ajahn Amaro>>.],
 dwelling on the theme of loving-kindness or using any other of the
 many modes of disciplining attention, our practice only prospers once we
 have an embodied appreciation for how the spiritual tools are to be

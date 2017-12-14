@@ -6,7 +6,7 @@
 :revdate: 2017-12-06
 :doctype: book
 :lang: en
-:pubs-logo: profound-pubs.jpg
+:pubs-logo: aruno-pubs.jpg
 :publisher-name: Aruno Publications
 :publisher-link-name: ratanagiri.org.uk
 :publisher-link-url: https://ratanagiri.org.uk/
@@ -42,6 +42,6 @@ include::{includes}/07-free-from-assumptions.adoc[]
 
 include::{includes}/08-epilogue.adoc[]
 
-include::{includes}/end-notes.adoc[]
+include::{includes}/notes.adoc[]
 
 include::{includes}/copyright.adoc[]

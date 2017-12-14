@@ -38,15 +38,15 @@ good about letting go. I liked holding on to ‘my way’ of doing things.
 But an ability to concentrate and control is not enough when it comes to
 meeting the many and varied obstructions we encounter on the way. This
 fits with what the Buddha teaches us about the Four Right
-Effortsfootnote:[See <<end-notes#right-effort, End Notes, The Four Right Efforts>>.].
+Effortsfootnote:[See Notes: <<notes#right-effort, The Four Right Efforts>>.].
 To apply the same kind of effort, regardless of the nature of the
 apparent obstruction, is not likely to be successful.
 
 In all the different approaches to practice which I have tried, the
 single most helpful meditation instruction I have received is Ajahn
 Sumedho's teachings on listening to the sound of
-silencefootnote:[See <<end-notes#inner-listening, End Notes, Inner Listening>>.]footnote:[See <<end-notes#aj-sumedho-sound-of-silence, End Notes, Ajahn Sumedho: Sound of Silence>>.]. It
-was a relief to discovery that however compulsive one's controlling
+silence.footnote:[See Notes: <<notes#inner-listening, Inner Listening by Ajahn Amaro>>.]footnote:[See Notes: <<notes#aj-sumedho-sound-of-silence, The Sound of Silence by Ajahn Sumedho>>.]
+It was a relief to discovery that however compulsive one's controlling
 tendencies might be, the meditation object of the sound of silence
 remained constant and undisturbed. Unlike the rhythm of the body
 breathing, which can become irregular if we pay attention to it in the
@@ -86,7 +86,7 @@ Perhaps I should mention here that personally I have very little
 interest in special experiences or special states of mind. What does
 interest me is the possibility of developing a quality of awareness that
 is able to meet whatever life offers. Is it possible to be buffeted by
-the eight worldly windsfootnote:[See <<end-notes:wordly-dhammas, End Notes, Eight Worldly Dhammas: Lokavipatti Sutta>>]
+the eight worldly windsfootnote:[See Notes: <<notes#worldly-dhammas, AN 8.6, Lokavipatti Sutta: The Failings of the World>>]
  – praise and blame, gain and loss, pleasure
 and pain, honour and insignificance – without being blown over by them?
 
@@ -104,7 +104,7 @@ how the upper branches and leaves of a tree are reaching for the
 light, while at the same time its roots are firmly planted in the
 ground, and both are absorbing essential nutriment. Recollect the
 Buddha's discourse on meditation on breathing in and breathing
-outfootnote:[See <<end-notes:anapanasati, End Notes, Mindfulness of Breathing Sutta>>],
+outfootnote:[See Notes: <<notes#anapanasati, MN 118, Ānāpānasati Sutta: Mindfulness of Breathing>>],
 where he begins by describing how the meditator _goes to a quiet place,
 takes a seat under a tree, sitting upright, holding the body erect,
 establishes mindfulness..._ For those of us fortunate and agile enough
