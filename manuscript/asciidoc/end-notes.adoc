@@ -8,8 +8,8 @@
 [[dhammapada-aruno]]
 (1) *A Dhammapada For Contemplation*, Aruno Publications 2017, see link:{dhammapada-url}[online source].
 
-[[ajahn-tate]]
-(2) *Ajahn Tate* (1902-1994) was one of the most influential Thai Forest Tradition monks of the last century.
+[[ajahn-thate]]
+(2) *Ajahn Thate* (1902-1994) was one of the most influential Thai Forest Tradition monks of the last century.
 
 http://www.accesstoinsight.org/lib/thai/thate/thateauto.html
 
