@@ -1,22 +1,19 @@
 = Free From Assumptions
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+// TODO ask LPM about the title: Free or Freed?
 
-_ +
- +
-Enlightenment can happen whether sitting, standing, walking or lying
-down. Some people think a lot, and when they sit in meditation they are
-not peaceful, but through contemplation of happiness and suffering they
-can still come to know truth. _
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-AJAHN CHAH
-
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+[quote, Ajahn Chah]
+____
+Enlightenment can happen whether sitting, standing, walking or lying down.
+Some people think a lot, and when they sit in meditation they are not peaceful,
+but through contemplation of happiness and suffering
+they can still come to know truth.
+____
 
 Readers of the Buddha's discourses will have regularly come across words
-like tethered, bound, chained, fettered. (12) Such words point
-powerfully to feelings of limitation, of being constrained. Since the
+like tethered, bound, chained,
+fetteredfootnote:[See <<end-notes#dhp-276, End Notes, Dhammapada verse 276>>.].
+Such words point powerfully to feelings of limitation, of being constrained. Since the
 Buddha wanted us to feel encouraged on our spiritual journey, why did he
 use negative terms so evocative of painful feelings? Because truly wise
 beings know that only when we see that we are the ones responsible for
@@ -38,7 +35,8 @@ pointing to that state with which we are all already familiar, the
 experience of constricted being, of limitation; in the Pali language,
 _dukkha_.
 
-_What We Assume To Be True_ +
+== What We Assume To Be True
+
 There is one particular form of limitation to which most of us are
 prone, and which I would like to pick up as a theme for contemplation. I
 am speaking about the habit of holding blindly to assumptions about
@@ -46,7 +44,6 @@ reality. In many cases it is these uninspected assumptions which are the
 very cause of our living in a painful state of perpetual contraction, of
 fear. The task of learning to see clearly how and when we are holding to
 these troublesome assumptions is a truly important one.
-_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 The short extract above from a translation of teachings by Ajahn Chah,
 points to assumptions some people hold about how enlightenment happens.
@@ -60,7 +57,6 @@ end up more limited. Rather than coming to a softening, opening,
 trusting relationship with life through our commitment to the spiritual
 exercises, we find ourselves feeling more obstructed.
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Besides commenting on how enlightenment happens, Ajahn Chah might also
 have been referring to the views people often have about what
 constitutes ‘real practice’. There are many who cling passionately to
@@ -89,7 +85,8 @@ therefore called to keep looking, ever more closely, at any views to
 which we might be clinging, and find effective ways of letting go of
 them.
 
-_Life's Questions_ +
+== Life's Questions
+
 This teaching by Ajahn Chah is a gift particularly appreciated by those
 who find it a struggle to make their minds peaceful in formal sitting
 meditation. He is telling us that we don't have to feel guilty if we
@@ -157,7 +154,8 @@ ask ourselves questions leads to internal arguing back and forth between
 views, until the mind feels drained of energy. Contemplative enquiry, on
 the other hand, generates energy and ease.
 
-_Inwardly Illiterate_ +
+== Inwardly Illiterate
+
 Recently I have been considering why it was that back in the 60's and
 70's, so many of us suffered so intensely as we embarked on our
 spiritual search. I can see now that at the time I was really
@@ -167,9 +165,9 @@ motivating me, for example, the self-view that gives rise to a sense of
 entitlement. I still find it embarrassing to think about how I
 approached things. Sadly, many of us didn't even survive to be able to
 reflect on our uninspected attitudes. I recognize now the naivety that
-shaped many of us. We had read books like Paul Reps's _Zen Flesh, Zen
-Bones_, or Alan Watts's _The Way Of Zen_; we had been wowed by pictures
-of Tibetan thankas; we had heard about what can happen when you practice
+shaped many of us. We had read books like Paul Reps' _Zen Flesh, Zen
+Bones_, or Alan Watts' _The Way Of Zen_; we had been wowed by pictures
+of Tibetan thangkas; we had heard about what can happen when you practice
 Theravadan meditation techniques; but how did we approach these
 venerable traditions and techniques? A lot of us merely assumed that it
 was going to be easy, and that all we had to do was turn up at the
@@ -192,7 +190,6 @@ they were allowed to skip chanting because they were so serious about
 their meditation practice, and were given a special dispensation. Ajahn
 Chah was not at all impressed with any expectations we had about being
 special, and gave out no such dispensations.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 There was one particularly notable occasion when a Western visitor to
 Wat Nanachat requested an interview with the abbot. He presented himself
@@ -201,12 +198,14 @@ has to offer me?’ This fellow was unaware of his conditioning as a
 compulsive consumer and sadly allowed a whole set of unhelpful
 assumptions to get in his way.
 
-__Rampant Consumerism +
-__The vast majority of cultures around the world these days accept the
+== Rampant Consumerism
+
+The vast majority of cultures around the world these days accept the
 assumption that to ‘acquire more’ is to somehow increase our personal
 value – to consume is good. I did a Google search on ‘rampant
-consumerism’ and came across a paper called The Gospel of Consumption.
-(13) The article described intentional efforts in the early part of the
+consumerism’ and came across a paper called The Gospel of
+Consumptionfootnote:[See <<end-notes#gospel, End Notes, The Gospel of Consumption>>.].
+The article described intentional efforts in the early part of the
 last century to create a society which was in a state or permanent
 dissatisfaction, so that producers would have an limitless market for
 their products. As a result of acceptance by society of such
@@ -239,8 +238,9 @@ desire to return to the source, to remain at home in the heart, instead
 of always going out after objects, the sense of dissatisfaction will
 cease.
 
-__Questioning The Sense Of Self +
-__A more subtle set of assumptions is to be found in how we hold the
+== Questioning The Sense Of Self
+
+A more subtle set of assumptions is to be found in how we hold the
 sense of self, the sense of who we experience ourselves to be. When
 asked who or what they are, many people would probably refer to their
 thoughts, their emotions or possibly their bodies, or maybe a
@@ -256,7 +256,7 @@ Towards the end of his life, as Ajahn Chah's health was deteriorating
 and his physical faculties were starting to fade, he helpfully described
 what was happening for him. He spoke about knowing that he would intend
 to say something like, ‘Sumedho, come here’. But when he opened his
-mouth the words he heard himself say were ‘Anando, come here’. However,
+mouth the words he heard himself say were ‘Ānando, come here’. However,
 he said this didn't disturb him in the slightest, since he knew it was
 simply a matter of the physical faculties falling apart. The knowing
 itself, the awareness, was undisturbed. So where was Ajahn Chah's sense
@@ -266,7 +266,7 @@ Is our sense of self a fixed thing? Generally speaking, most of us tend
 to assume so, and we invest a massive amount of time and energy in
 promoting it. But which specific self do we think is permanent or real?
 It doesn't take a lot of introspection to see that there are many
-‘selfs’: the happy me, the unhappy me, the alert, together me, the
+‘selves’: the happy me, the unhappy me, the alert, together me, the
 confused, exhausted me. Which one is really real? From a contemplative
 perspective they all have their validity, yet none of them is ultimate.
 Ajahn Chah had a series of strokes and his wiring became scrambled, but
@@ -294,37 +294,40 @@ conditions arising and ceasing. We gradually learn not to cling to any
 of it. We keep going deeper in our questioning and enquire: in what is
 all this arising and ceasing taking place? Can we sense the space out of
 which all this activity appears and into which it disappears? If we
-train our spiritual faculties (6) in this way, there is surely a better
+train our spiritual
+facultiesfootnote:[See <<end-notes#faculties,End notes, Five spiritual faculties.>>]
+in this way, there is surely a better
 chance that when our physical faculties start to disintegrate, our
 perspective on reality won't disintegrate with them.
 
 In the meantime we can use formal meditation and daily-life experiences
 to investigate all these perceptions of selfhood. How ‘real’ are they?
 How permanent are they? Is there a dimension of mind that is free to
-witness the various ‘selfs’ appearing and disappearing? What happens
+witness the various ‘selves’ appearing and disappearing? What happens
 when we try to find a self in the witnessing, just-knowing dimension?
 Remember, these questions are an invitation to contemplate, to go
 deeper, they are not questions to be answered conceptually. Following
 the example of the Buddha-to-be, we embrace these questions and let them
 guide us until we reach direct understanding.
 
-The first Western woman to join our sangha in Britain as a nun was
+The first Western woman to join our Sangha in Britain as a nun was
 Sister Rocana, previously known as Pat Stoll. In a conversation about
 practice with Ajahn Chah, Pat Stoll once asked the question: ‘Since the
 Buddha taught _anatta_, non-self, how can we practice concentration
 meditation? Surely, when we are concentrating, there needs to be a sense
 of somebody there doing the focusing on the meditation object.’ Ajahn
 Chah's reply was wonderfully succinct: ‘When we are developing
-concentration meditation (_samadhi_) we work with a sense of self. When
-we are developing insight meditation (_vipassana_) we work with
+concentration meditation (_samādhi_) we work with a sense of self. When
+we are developing insight meditation (_vipassanā_) we work with
 non-self. And when we really know what's what, we are beyond both self
 and non-self.’ If we try to grasp conceptually what Ajahn Chah was
 pointing at in this statement, we are likely just to give ourselves a
 headache. This type of pointing is directed not at the head but at the
 heart, at awareness itself.
 
-__Self Importance +
-__A few years after our monastic community first moved from Thailand to
+== Self Importance
+
+A few years after our monastic community first moved from Thailand to
 Britain, a series of discussions took place about our style of morning
 and evening chanting. I remember this particularly well because I was
 not included in the discussions. Various community members thought we
@@ -408,8 +411,9 @@ that he does an hour of yoga a day, fasts one day a week and avoids
 alcohol and sugar. In other words, he has a committed relationship with
 his inner contemplative.
 
-__Assuming Nothing +
-__When the consequences of our past unawareness become apparent, it is
+== Assuming Nothing
+
+When the consequences of our past unawareness become apparent, it is
 wise to welcome them. We don't have to allow them to shape our lives. I
 hope that this contemplation on uninspected assumptions means we will
 stop assuming too much about anything and learn to question everything.

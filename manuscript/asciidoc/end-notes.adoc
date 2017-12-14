@@ -24,18 +24,20 @@ http://www.accesstoinsight.org/tipitaka/mn/mn.029.than.html
 http://www.accesstoinsight.org/tipitaka/kn/snp/snp.2.04.nara.html
 
 [[dhutanga]]
-(5) *Dhutanga vatta*
+(5) *Dhutanga Vatta*
 
-TODO
+// TODO
 
 *TAN GAMBHIRO CAN YOU KINDLY FILL IN THE 13*
 
 [[faculties]]
 (6) *Five spiritual faculties*
 
-Saddha, Viriya, Sati, Samadhi, Pañña (Faith, Energy/Interest, Mindfulness, Concentration, Discernment)
+Saddha, Viriya, Sati, Samadhi, Pañña +
+(Faith, Energy/Interest, Mindfulness, Concentration, Discernment)
 
-TODO
+
+// TODO
 
 **TAN GAMBHIRO CAN YOU KINDLY FILL IN diacriticals**
 
@@ -70,13 +72,13 @@ https://forestsangha.org/teachings/books/inner-listening?language=English
 [[dhp-276]]
 (12) *Dhammapada verse 276*
 
-TODO verse formatting
+// TODO verse formatting
 
 The Awakened Ones can but point the way; we must make the effort ourselves.
 Those who reflect wisely and enter the path are freed from the fetters of Mara.
 
 [[gospel]]
-(13) *The Gospel of Consumption:*
+(13) *The Gospel of Consumption*
 
 https://orionmagazine.org/article/the-gospel-of-consumption/
 
@@ -102,4 +104,3 @@ https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html
 (17) *Mindfulness of Breathing Sutta*
 
 https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html
-

@@ -47,7 +47,7 @@ a knowing _about_ things. This path of practice is characterised not by
 what we learn about on it, but by the effort we make to develop a fresh,
 new way of seeing.
 
-When we say _Dhammam saranam gacchami_, ‘I go for refuge to the Dhamma’,
+When we say _Dhammaṃ saraṇaṃ gacchāmi_, ‘I go for refuge to the Dhamma’,
 we are saying that more than anything else we are interested in seeing
 the reality of the world. Here the world is not just the outer world,
 but the inner worlds too, all that we create in our minds. Being a
@@ -139,17 +139,17 @@ temptation to settle, to get stuck, can arise at any stage. We don't
 only need to be careful about our coarse fluctuating moods. It is also
 possible to become stuck in refined levels of concentration.
 
-My first meditation teacher in Thailand, Ajahn Thatefootnote:[See <<end-notes#ajahn-tate,End Notes, Ajahn Tate>>.]
+My first meditation teacher in Thailand, Ajahn Thatefootnote:[See <<end-notes#ajahn-thate,End Notes, Ajahn Tate>>.]
 was very adept
-at abiding in highly refined states of samadhi. He relates how he spent
+at abiding in highly refined states of samādhi. He relates how he spent
 ten years stuck in unproductive states of tranquillity. It took the
 penetrative insight and helpful support of Ajahn Mun to guide him away
-from his fondness for samadhi and, by establishing his meditation in
+from his fondness for samādhi and, by establishing his meditation in
 body contemplation, to proceed towards awakening.
 
 Some of you will be familiar with the discourse by the Buddha known as
-the _Mahasaropama Sutta_footnote:[See <<end-notes#mahasaropama-sutta,End Notes, Mahasaropama Sutta>>.],
-the __Discourse on the Simile of the Heartwood__.
+the __Mahā-sāropama Sutta__footnote:[See <<end-notes#mahasaropama-sutta,End Notes, Mahā-Sāropama Sutta>>.],
+the Discourse on the Simile of the Heartwood.
 In this teaching the Buddha likens someone setting out in
 pursuit of awakening to someone going in search of heartwood, the most
 valuable portion of a tree. Initially spiritual aspirants trust that
@@ -159,7 +159,7 @@ journey means they gain increased respect; their status in society
 rises, and they decide this level of increased well-being is good enough
 and cease making efforts. The Buddha likens this to someone setting out
 in search of the heartwood but settling for a bunch of twigs. In other
-words, if we find ourself feeling pleased with the praise we receive,
+words, if we find ourselves feeling pleased with the praise we receive,
 for having impressed a few friends with our spiritual efforts, that is
 not the place to get comfortable.
 
@@ -175,8 +175,6 @@ says the seeker has arrived at the heartwood.
 
 == Beginning Again
 
-// TODO @@ edited up to here
-
 At any stage of practice we can be fooled into believing that ‘this is
 good enough’ and abandon making efforts. We manage the risk of this
 happening in advance by cultivating the wholesome habit of willingly
@@ -186,7 +184,7 @@ taking all the time we need to regularly refresh and renew our body and
 mind is skilful – so long as a pause doesn't turn into a fixed position.
 The pleasure that comes with receiving praise and popularity, for
 instance, can be intoxicating. Or perhaps the more subtle pleasure that
-comes from samadhi could tempt you to settle. Maybe you feel it's time
+comes from samādhi could tempt you to settle. Maybe you feel it's time
 to start sharing your wisdom and compassion with the world, and set up
 your own YouTube channel. But if you feel it is ‘my’ wisdom and
 compassion, it would definitely be better to ‘keep moving on, leaving
@@ -198,21 +196,24 @@ many teachers around looking for disciples, and if they catch us in
 their spotlight we can lose perspective. Allowing ourselves to become
 overly impressed by stories about the magic powers and super-abilities
 of others, however noble they are, does not necessary bring benefit. As
-the Buddha advised in the _Mahamangala Sutta_ (4), we can learn from
-‘association with the wise’, but if we are truly learning, we will keep
+the Buddha advised in
+the __Mahā-Maṅgala Sutta__footnote:[See <<end-notes#mahamangala-sutta, End Notes, Mahā-Maṅgala Sutta>>.],
+we can learn from ‘association with the wise’, but if we are truly learning, we will keep
 letting go.
 
-_Clumsy Beginnings_ +
+== Clumsy Beginnings
+
 Our ability to keep moving on is not always going to feel comfortable.
 We won't automatically start out with an ability to glide on smoothly.
 Especially early on, our excessive enthusiasm can cause our efforts to
 be somewhat clumsy. When I was living under Ajahn Chah, there was an
 occasion when I was called upon to translate for a newly arrived novice.
 This eager young man wanted Ajahn Chah's advice on how he should set up
-his practice during the approaching Rains Retreat _(vassa_). He
+his practice during the approaching Rains Retreat (_vassa_). He
 explained that he was determined to practise really hard and intended to
-take on several of the ascetic practices (_dhutanga vatta_) (5). He
-listed all the various practices he was aiming at adopting. Ajahn Chah
+take on several of the ascetic practices
+(_dhutaṅga vaṭṭa_)footnote:[See <<end-notes#dhutanga, End Notes, Dhutaṅga Vaṭṭa>>.].
+He listed all the various practices he was aiming at adopting. Ajahn Chah
 listened until I had finished translating, and then advised, ‘What I
 recommend you should do is determine to keep practising regardless of
 what happens. No need to do anything special.’
@@ -236,7 +237,8 @@ desires. On closer inspection, these desires can be seen simply as
 activity taking place. These movements only define who we are when we
 decide that is so.
 
-_Increased Honesty_ +
+== Increased Honesty
+
 Rather than special practices which tempt us to look for special
 results, it is increased honesty which is more likely to prevent us from
 settling too soon. Whenever we become attached, we get stuck. It might
@@ -306,8 +308,9 @@ signs and do get caught in clinging, honesty means we will own up to our
 part in creating the suffering that follows, which in turn means we are
 best placed to learn the lesson.
 
-__Addictions +
-__The agility which accompanies simple here-and-now honesty shows us
+== Addictions
+
+The agility which accompanies simple here-and-now honesty shows us
 where and when we are hanging onto false levels of security, where and
 when we are lying to ourselves. It can also help us prepare for the
 unexpected. Much of this spiritual journey involves meeting the
@@ -325,7 +328,8 @@ before I really got a handle on sugar. These days I refer to it as
 low-grade heroin and stay well away from it. I regret that I couldn't
 own up sooner to what was behind my addiction to sugar.
 
-_Consistency_ +
+== Consistency
+
 If our effort in practice is consistent and the emphasis is on letting
 go rather than achieving, we will be in the optimal position to own up
 to attachments when it is the time to do so. Whether attachments

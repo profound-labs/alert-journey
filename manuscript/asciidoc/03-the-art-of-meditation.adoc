@@ -7,7 +7,7 @@ considerable benefits. I have also recently come across articles
 disparaging and discouraging Buddhist meditation. These are written by
 people who have tried but after a while given up, claiming it is
 dangerous and even life-destroying. And this is not just because they
-haven’t tried hard enough; tourists who perhaps did one _vipassanā_
+haven't tried hard enough; tourists who perhaps did one _vipassanā_
 retreat while they were in India and then gave up. Sometimes these were
 people who had been applying themselves for years to meditation, but
 still ended up disillusioned. This is very unfortunate. However, I
@@ -15,15 +15,16 @@ confess I’m not altogether surprised. Having been the leader of a
 monastery for over twenty years, I have heard from a lot of people about
 the various approaches to meditation practice.
 
-__Initial Approach +
-__When we first come across these teachings, we are presented with not
+== Initial Approach
+
+When we first come across these teachings, we are presented with not
 just another belief system, but with something we can actually _do_
 about our consciousness, and this gives us hope. So we enter the path
 with enthusiasm, confidence and energy. We throw ourselves into
 developing the technique; and perhaps we get some results. But what do
-we do next? Once we’ve had some experience, especially some sort of
+we do next? Once we've had some experience, especially some sort of
 ‘special’ experience, it’s easy to cling to the memory. If it was
-pleasant we may try to repeat it. If it wasn’t pleasant we may still
+pleasant we may try to repeat it. If it wasn't pleasant we may still
 cling to the memory, afraid that it may be repeated.
 
 It seems to me that sometimes there is a risk that the way meditation is
@@ -34,7 +35,7 @@ suffering.
 
 In the beginning we do need techniques and we can learn from them. But
 the idea that they are all there is to meditation is regrettable. It
-took me quite a while to realize that a technician’s approach wasn’t
+took me quite a while to realize that a technician’s approach wasn't
 working. I eventually came to see how preoccupied I had become with the
 _idea_ of meditation. The point of the practice, the spirit, is to
 deepen in understanding and ease. Always worrying about whether or not
@@ -56,7 +57,7 @@ get somewhere.
 How we pick up the techniques determines how we relate to experience in
 general. Particularly in the West with our strong, wilful attitude to
 life, relating to meditation as a self-improvement technique is very
-pronounced. We need to be careful that we don’t bring our wilful
+pronounced. We need to be careful that we don't bring our wilful
 manipulative tendencies into spiritual practice – which is surely the
 most important aspect of our lives. Good health, meaningful
 relationships, money, food and shelter are all significant, but when we
@@ -64,7 +65,8 @@ die the most important thing will be our state of mind. So the way we
 enter our inner exploration is most important, and we shouldn't think
 that everything is explained in a manual.
 
-_Meditation As Art_ +
+== Meditation As Art
+
 These days I find the contemplative life is more usefully viewed as an
 artistic exercise or as a craft. In the beginning we need to learn the
 skills involved, as we would with any art form, like playing a musical
@@ -74,8 +76,8 @@ well we must learn how to move our fingers, how to hold the wrist. If we
 hold the instrument incorrectly, we miss out on many beautiful
 possibilities. Hours and hours of exercise are required in the beginning
 to learn to play an instrument, or to use the medium of paint or handle
-a camera. However, once we’ve internalized the skills required, once
-they’ve really become ours, we can let the spirit of the artist flow. I
+a camera. However, once we've internalized the skills required, once
+they've really become ours, we can let the spirit of the artist flow. I
 suggest it’s similar with meditation.
 
 If you do not see yourself as particularly artistic, you could see it in
@@ -91,9 +93,10 @@ discovering something new. The Buddha tried several different teachers
 before he finished his work. If he had stayed with the first teacher and
 meditation method that he found, he might never have become enlightened.
 
-_Middle Way_ +
+== Middle Way
+
 So perhaps the authors of those commentaries on the perils of meditation
-hadn’t felt allowed to experiment in their practice. Maybe they felt
+hadn't felt allowed to experiment in their practice. Maybe they felt
 practice was all about one single technique. Because a famous teacher
 tells us what we should be doing, that does not mean they necessarily
 know what we truly need. What is needed is to locate the in-between
@@ -108,7 +111,7 @@ me and had some delightful, peaceful experiences, particularly resulting
 from concentrating on the breath. But did they really help me deal with
 the obstructions which I had to face? Only up to a point, and then they
 failed miserably. I suspect this happens to a lot of spiritual seekers.
-Meditators get to a point where they feel they’re banging their heads
+Meditators get to a point where they feel they're banging their heads
 against a brick wall.
 
 I would like to encourage listening more carefully to what our own
@@ -122,7 +125,8 @@ approach is absolutely the way, but let’s not assume either that our
 intuition has nothing to contribute. What matters is that we are growing
 in confidence and commitment as we progress on this journey.
 
-_Where Energy Comes From_ +
+== Where Energy Comes From
+
 It matters that we feel allowed to include creativity in our meditation.
 Generally speaking, our education has encouraged us to use lateral
 thinking to deal with issues. It has taught us to approach things
@@ -131,7 +135,7 @@ allowed to do that, and the tradition insists we adhere solely to one
 venerable approach, that can stifle interest. And it is definitely not
 helpful to lose interest. Interest is one way of interpreting what is
 meant by the Pali word _viriya._ Viriya is one of the five spiritual
-faculties (6) and it is essential to spiritual development. Usually this
+facultiesfootnote:[See <<end-notes#faculties,End notes, Five spiritual faculties.>>] and it is essential to spiritual development. Usually this
 word is translated as energy, but where do we get our energy from?
 
 As I have mentioned elsewhere, for those who find confidence in letting
@@ -142,7 +146,8 @@ goal-oriented striving, nurtures enthusiasm in practice, it generates
 energy. For source-oriented types, a sense of being creatively engaged
 in our relationship with our meditation is essential.
 
-_Unlocking Practice_ +
+== Unlocking Practice
+
 On my very first seven-day meditation retreat the teacher taught
 _ānāpānasati_, mindfulness of breathing while sitting; he also taught
 walking meditation. I remember how on the third day of this retreat I
@@ -154,8 +159,8 @@ an inner voice – the chatterbox who likes to have an opinion about
 everything – commenting, ‘There’s just awareness’, or perhaps it was,
 ‘There’s just knowing.’ Then a question spontaneously arose, ‘But who’s
 aware?’ At that point the mind dropped into a deeper, even lovelier
-place. I can’t recall exactly how I reported this experience to the
-retreat teacher, but he didn’t seem to appreciate it as a useful key for
+place. I can't recall exactly how I reported this experience to the
+retreat teacher, but he didn't seem to appreciate it as a useful key for
 unlocking my practice. It took a long time and a lot of struggle before
 I appreciated it for what it was.
 
@@ -165,9 +170,9 @@ terrain. Asking the right question, your own heart-question, can be a
 powerful part of practice. Such questioning is not coming from the head.
 There are times when concentrating on a meditation object can be a
 pleasant, agreeable thing to do, but maybe we should view it in the way
-Ajahn Thatefootnote:[See <<end-notes#ajahn-tate,End Notes, Ajahn Tate>>.] taught his monks.
+Ajahn Thatefootnote:[See <<end-notes#ajahn-thate,End Notes, Ajahn Thate>>.] taught his monks.
 He used to tell his disciples that
-entering samadhi was what monks did instead of going on holiday. He
+entering samādhi was what monks did instead of going on holiday. He
 would encourage it. However, going on holiday is not the work.
 
 Some of the most interesting work I do is asking questions like, ‘Who’s
@@ -190,13 +195,14 @@ asking questions. Asked in the right way, at the right time, in the
 right direction, our heart-question can be the very thing that begins to
 tease out the tangled threads of our contracted heart. At one stage in
 his practice when Ajahn Fan, a disciple of Ajahn Mun, was caught up in
-fear, he went to consult with his teacher. Ajahn Mun didn’t just say,
+fear, he went to consult with his teacher. Ajahn Mun didn't just say,
 ‘Go and concentrate on your breath and make your mind peaceful.’ He
-asked Ajahn Fan, ‘Who is it who is afraid?’ Master Hsu Yun (7), the
+asked Ajahn Fan, ‘Who is it who is afraid?’ Master Hsu Yunfootnote:[See <<end-notes#hsu-yun, End notes, Master Hsu Yun.>>], the
 great Chinese Chan meditation master, used the technique of asking
 ‘Who?’, called in Chinese _hua-tou_, the profound question practice.
 
-_Asking In The Right Way_ +
+== Asking In The Right Way
+
 Remember, these ‘pointings’ to the way are not to be grasped. If we
 cling to them with the gaining mind, they will once again be deluded ego
 building itself another shelter. Be careful not to grasp at this idea of
@@ -212,32 +218,33 @@ one part of our training; can we take it all the way? Not necessarily,
 not everybody. Some people may take that form of concentration
 meditation nearly all the way; and I’m told that at the very last stage
 of practice, at just the right time, they ask some very subtle questions
-and the whole tangle unravels; they find the freedom they’ve been
+and the whole tangle unravels; they find the freedom they've been
 seeking. But that may not be the way for all of us. Indeed, I suspect
 it’s not the way for many of us. Maybe we need to trust that our mind is
 not our enemy and make friends with it, learn to listen to it.
 
 Followers of the Christian tradition teach, ‘Ask and ye shall be given.’
-When I was a Christian I used to ask all the time, but I didn’t get the
+When I was a Christian I used to ask all the time, but I didn't get the
 results I was looking for. Only years later did I meet a Christian monk
-who pointed out that it matters how we ask. If we’re not asking from the
-right place we’re not going to get the right answer.
+who pointed out that it matters how we ask. If we're not asking from the
+right place we're not going to get the right answer.
 
 If we are fortunate and persist on our inner journey, we might come
 across our own personal question, the one that will untangle us; but we
 need to be careful about how we ask our important question. Our
-questions need to be accompanied by a humble recognition that we don’t
+questions need to be accompanied by a humble recognition that we don't
 know. In my first year of meditation, when I was applying this
 questioning practice, there were periods when I was using it like a
-sledgehammer. That didn’t work well. It didn’t help at all, actually; I
+sledgehammer. That didn't work well. It didn't help at all, actually; I
 became very sick. I have some photographs of what I looked like then;
 they're frightening! We need to ask our questions gently, respectfully,
 as if we were having a conversation with someone we look up to.
 
-__In What Is All This Taking Place? +
-__Related to this, I often reflect on a question Ajahn Chah once asked.
+== In What Is All This Taking Place?
+
+Related to this, I often reflect on a question Ajahn Chah once asked.
 It is recorded in the introduction to the book, Seeing the Way, Volume
-2. (8) A group of young monks were talking with him about the Original
+2footnote:[See <<end-notes#seeing-vol2, End notes, Seeing the Way, Volume 2.>>]. A group of young monks were talking with him about the Original
 Mind. He pointed out that they must be very careful not to make this
 Original Mind into a ‘thing’; if they did, that was not the Original
 Mind. If there’s anything there at all, he said, just throw it all out.
@@ -245,11 +252,11 @@ You can refer to an Original Mind if you want to, but the concept,
 ‘Original Mind,’ is not what is being pointed to. He went on to point
 out that what is truly original is inherently pure; there’s nothing you
 can say about it. If you do want to discuss it, words are necessary, but
-don’t get caught in the words.
+don't get caught in the words.
 
 In the course of that conversation Ajahn Chah asked the question, ‘In
 what is all this arising and ceasing?’ You can be watching arising and
-ceasing all the time, _but in what is it all taking place_? That is a
+ceasing all the time, _but in what is it all taking place?_ That is a
 powerful question. We can be following some meditation technique,
 observing arising and ceasing, arising and ceasing, but be so caught up
 in applying the form of the meditation exercise that we forget our own
@@ -260,21 +267,22 @@ awareness, knowingness, the one who knows or whatever we choose to call
 it. It requires a shift in perspective to see the context and let go of
 focusing on the activity. Whatever word we use, of course that’s not it.
 
-_Creative Involvement_ +
+== Creative Involvement
+
 Carefulness and creativity go together. I learnt one technique aimed at
 bringing us back to mindfulness in the moment from the teacher Ruth
 Denison. It involves having people stand on one leg. I have sometimes
 used it, even when talking on the telephone to someone lost in
 confusion: ‘OK, come on, let’s both get up and stand on one leg.’ Maybe
 they think I’m kidding: ‘I’m serious. We’ll talk about your problem, but
-right now, let’s stand on one leg. If you want to talk to me, we’ve got
+right now, let’s stand on one leg. If you want to talk to me, we've got
 to be standing on one leg first.’ So there we are each in the middle of
 a room, with the telephone at one ear, standing on one leg. That’s a
 very useful exercise, because to do it we have to let go of thinking and
 come back into the body. After we've stood on one leg for a while, old
 habits are likely to draw attention back into the head; but then we’ll
-wobble, and when we’re about to fall over we have to come back quickly
-into the body. Maybe they tell me, ‘But I can’t think about my problem
+wobble, and when we're about to fall over we have to come back quickly
+into the body. Maybe they tell me, ‘But I can't think about my problem
 while I’m standing on one leg!’ To which I reply, ‘Well, that’s good,
 because that’s why you rang me, because you couldn't stop thinking about
 your problem.’
@@ -283,31 +291,31 @@ I’m not being flippant when I talk like this; the exercise is useful if
 you find yourself lost. You can even do it in public situations so long
 as you are discreet and nobody notices! And again, we're not talking
 about grasping the technique and becoming one of those Indian ascetics
-who stand all day on one leg. I suspect they’ve missed the point.
+who stand all day on one leg. I suspect they've missed the point.
 
 There are lots of techniques that we can employ to train our attention.
-Ajahn Chah wouldn’t allow electricity in the monastery for many years;
+Ajahn Chah wouldn't allow electricity in the monastery for many years;
 he insisted we pull water from the well by hand. I expect he saw that as
 a good way of embodying mindfulness practice. It also worked well in
 training monks to cooperate. I was recently speaking to the monks here
-in our monastery about a Zen temple where the abbot wouldn’t allow a
+in our monastery about a Zen temple where the abbot wouldn't allow a
 washing machine, concerned that the students would become lazy.
 Eventually the monastery did acquire a washing machine, so the abbot
 said, ‘OK, when you put your clothes in the washing machine you must sit
 and watch the washing go round and round in a circle. You may not just
-push the button and go away and get heedless again, you’ve got to sit
+push the button and go away and get heedless again, you've got to sit
 there.’
 
 Ajahn Chah banned cigarette smoking at his monastery, but when I first
 ordained I lived in a monastery in Bangkok where it was still allowed.
-But the rule there was that you weren’t allowed to smoke unless you were
+But the rule there was that you weren't allowed to smoke unless you were
 sitting down, so if you were going to smoke you had to smoke fully. Of
 course, I’m not advocating that particular practice. But the message
 being conveyed, the spirit that was in effect encoded in that structure,
-was to do what you’re doing fully. If you’re writing an email, fully
+was to do what you're doing fully. If you're writing an email, fully
 write the email. Often when we are sitting at a computer, we are lost.
-We forget the body and become stressed. We’re not really doing what
-we’re doing. We are not quite all there. Yet we’ve heard our teachers
+We forget the body and become stressed. We're not really doing what
+we're doing. We are not quite all there. Yet we've heard our teachers
 say over and over that the practice of mindfulness is here and now. The
 Buddha said, ‘The past is dead, the future’s not yet born.’ The only
 reality we have access to is this reality, here, now. We benefit from
@@ -318,5 +326,5 @@ themselves.
 So if the way you already use a meditation technique nourishes your
 faith and strengthens your confidence, do continue. If a more flexible
 approach appeals to you, if you feel drawn to a somewhat more creative
-involvement in your meditation, don’t automatically reject that feeling.
+involvement in your meditation, don't automatically reject that feeling.
 It might be your mind coming to help you on the journey.

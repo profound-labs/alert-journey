@@ -1,8 +1,6 @@
-= Epilogue
+= Epilogue -- Be Like A Tree
 
-Be Like A Tree -
-
-A guided meditation
+_A guided meditation_
 
 Those who regularly read or listen to my Dhamma talks will know that I
 rarely give formal meditation instruction. There are a number of reasons
@@ -39,19 +37,21 @@ letting go of habits of controlling. A big part of me didn't feel so
 good about letting go. I liked holding on to ‘my way’ of doing things.
 But an ability to concentrate and control is not enough when it comes to
 meeting the many and varied obstructions we encounter on the way. This
-fits with what the Buddha teaches us about the Four Right Efforts. (14)
+fits with what the Buddha teaches us about the Four Right
+Effortsfootnote:[See <<end-notes#right-effort, End Notes, The Four Right Efforts>>.].
 To apply the same kind of effort, regardless of the nature of the
-apparent obstruction, is not likely to be successful. +
- +
+apparent obstruction, is not likely to be successful.
+
 In all the different approaches to practice which I have tried, the
 single most helpful meditation instruction I have received is Ajahn
-Sumedho's teachings on listening to the sound of silence. (15) (11) It
+Sumedho's teachings on listening to the sound of
+silencefootnote:[See <<end-notes#inner-listening, End Notes, Inner Listening>>.]footnote:[See <<end-notes#aj-sumedho-sound-of-silence, End Notes, Ajahn Sumedho: Sound of Silence>>.]. It
 was a relief to discovery that however compulsive one's controlling
 tendencies might be, the meditation object of the sound of silence
 remained constant and undisturbed. Unlike the rhythm of the body
 breathing, which can become irregular if we pay attention to it in the
-wrong way, the Sound of Silence is always there, wonderfully just so. +
- +
+wrong way, the Sound of Silence is always there, wonderfully just so.
+
 It turns out, however, that even this practice of listening to the sound
 of silence is not always enough on its own. I have found that for many
 who use this practice, it is quite possible to be paying attention to
@@ -86,22 +86,25 @@ Perhaps I should mention here that personally I have very little
 interest in special experiences or special states of mind. What does
 interest me is the possibility of developing a quality of awareness that
 is able to meet whatever life offers. Is it possible to be buffeted by
-the eight worldly winds (16) – praise and blame, gain and loss, pleasure
+the eight worldly windsfootnote:[See <<end-notes:wordly-dhammas, End Notes, Eight Worldly Dhammas: Lokavipatti Sutta>>]
+ – praise and blame, gain and loss, pleasure
 and pain, honour and insignificance – without being blown over by them?
 
 The six signs or prompts are: aligning, softening, broadening, gently
 listening, simply receiving and the just-so reality. So let's look at
 these in detail.
 
-_Aligning_ +
+== Aligning
+
 Establishing a sense of embodied ‘alignment’ is similar to what some
 people do with ‘body-scanning’ meditation, but in this case it aims
 particularly at a perception of being upright and groundedness. Try
-experimenting with suggesting to your mind, '_Be like a tree’_. Consider
-how the the upper branches and leaves of a tree are reaching for the
+experimenting with suggesting to your mind, _‘Be like a tree’_. Consider
+how the upper branches and leaves of a tree are reaching for the
 light, while at the same time its roots are firmly planted in the
 ground, and both are absorbing essential nutriment. Recollect the
-Buddha's discourse on meditation on breathing in and breathing out, (16)
+Buddha's discourse on meditation on breathing in and breathing
+outfootnote:[See <<end-notes:anapanasati, End Notes, Mindfulness of Breathing Sutta>>],
 where he begins by describing how the meditator _goes to a quiet place,
 takes a seat under a tree, sitting upright, holding the body erect,
 establishes mindfulness..._ For those of us fortunate and agile enough
@@ -144,8 +147,9 @@ forward and then backward, and then forward again, until you find the
 point of maximum downward pressure. Visualize completely flattening your
 seat just by sitting on it. This is exercising ‘aligning’.
 
-__Softening +
-__Due to unawareness, most of us grow up gradually accumulating a
+== Softening
+
+Due to unawareness, most of us grow up gradually accumulating a
 backlog of unlived life. Sadly, nobody has taught us the difference
 between the natural pain which all beings experience, and the suffering
 which occurs as a result of our clinging to experience. As a defence
@@ -160,7 +164,7 @@ been making so much effort for so long, they are still so unhappy. Being
 imprisoned behind these rigid defences against denied life might be the
 cause. Softening helps with this. What we are aiming for is a softening
 of attitude, but softening in the body is a practical and effective
-place to begin. To cultivate conscious softening, try suggesting '_Be
+place to begin. To cultivate conscious softening, try suggesting ‘_Be
 like water_’ to your mind. When you gently immerse your hand in water
 there is almost no resistance. This perception of no resistance
 contrasts with our habits of struggling for and against life.
@@ -173,8 +177,9 @@ importantly, feel your belly soften. Being soft is not being weak.
 Flowing water is powerful, yet it can accord with everything it
 encounters. This is exercising ‘softening’.
 
-__Broadening +
-__From an early age we were told to pay attention and to concentrate on
+== Broadening
+
+From an early age we were told to pay attention and to concentrate on
 whatever is put in front of us, be it a book, a monitor or a TV screen.
 No doubt we became very skilled at accumulating information in this way,
 but an unintended side effect may be to end up feeling as if we had only
@@ -187,7 +192,7 @@ fabrication, an imposition on awareness that we are _doing_.
 This perception of the personal space which we occupy is not a fixed
 thing; we can work on dissolving those perceived limitations. Using our
 imagination, we can expand the field of awareness. We can intentionally
-generate a sense of broadening by suggesting to the mind, '_Be
+generate a sense of broadening by suggesting to the mind, ‘_Be
 edgeless_’. As an experiment, bring attention to the temperature of the
 air touching your skin. Then try feeling a few centimetres outside your
 skin. Is it possible to sense the temperature of the air around your
@@ -199,11 +204,12 @@ What we are feeling for here is the ability to relax the sense of being
 defined by a perception of rigid, limited space. Using our imagination,
 we can create an image of a field of awareness expanding beyond the
 immediate sensation of our body, outward, ever increasing, with the
-suggestion, '_Be edgeless_’. This is a field of awareness vast enough to
+suggestion, ‘_Be edgeless_’. This is a field of awareness vast enough to
 accommodate all of life. This is exercising ‘broadening’.
 
-__Gently Listening +
-__If you can hear the high-frequency internal ringing of the sound of
+== Gently Listening
+
+If you can hear the high-frequency internal ringing of the sound of
 silence, by gently listening to this sound you can discover a different
 way of paying attention. When we send attention out through our eyes, we
 easily narrow our field of awareness. We often equate paying attention
@@ -222,15 +228,16 @@ looking, can relax the way in which we pay attention. Listening is a 360
 degree application of attention. Listening is less ‘doing’ and more
 ‘allowing’; less ‘selecting’ and more ‘according with’. To support
 easing out of the picking and choosing mode, try suggesting to your
-mind, '_Gently listen_’_._ Intentionally listening in this way to the
+mind, ‘_Gently listen_’. Intentionally listening in this way to the
 sound of silence is cultivating a new disposition or attitude towards
 experience. Instead of always controlling what appears in awareness and
 trying to ‘get something’ out of experience, we simply open to what at
 this moment is available, being willing to learn. This is exercising
 ‘gentle listening’.
 
-__Simply Receiving +
-__When we have learnt to relax the way in which we pay attention and be
+== Simply Receiving
+
+When we have learnt to relax the way in which we pay attention and be
 available to learn from everything that life offers us, this means we
 have already loosened our grasp on compulsive tendencies to control. If
 we keep checking to see whether we are still controlling or keep trying
@@ -238,11 +245,11 @@ not to control, that means we are still caught in controlling. It is
 only when we have grown tired of deluded ego's dishonest games that our
 compulsive tendencies to want to be in charge fall away. We don't drop
 them by trying to drop them. Letting go happens when we see with insight
-that clinging is fruitless. This is why the Buddha said, _It is because
-of not seeing two things that you stay stuck in samsara: not seeing
-suffering and not seeing the causes of suffering._ Trying to let go only
-perpetuates the struggle. Rather, make the suggestion, '_Simply
-receive’_ to your mind__.__ Trust that this receptivity has within it
+that clinging is fruitless. This is why the Buddha said, __It is because
+of not seeing two things that you stay stuck in saṃsāra: not seeing
+suffering and not seeing the causes of suffering.__ Trying to let go only
+perpetuates the struggle. Rather, make the suggestion, ‘_Simply
+receive_’ to your mind. Trust that this receptivity has within it
 the potential to see clearly, to understand, and that it is
 understanding which brings about letting go. Don't be afraid that
 cultivating such sensitive receptivity will lead to a kind of passive
@@ -250,8 +257,9 @@ selfishness. When there is such a quality of awareness, any expression
 of selfishness is more likely to be seen for what it is: a tired and
 painful limitation that we are imposing on awareness.
 
-__The Just-So Reality +
-__What we are being receptive to is the just-so reality of this moment.
+== The Just-So Reality
+
+What we are being receptive to is the just-so reality of this moment.
 If there is fear, receive fear into an expanded field of awareness and
 allow fear to be ‘just so’. If there is anger, receive the anger and
 allow it to be ‘just so’. If there is wanting, not-wanting, liking,
@@ -263,7 +271,8 @@ away. We are not programming ourselves to believe in the just-so
 reality. As with the other prompts, the suggestion to recollect the
 just-so reality supports honest, careful, receptivity of this moment.
 
-_Finding Your Way_ +
+== Finding Your Way
+
 Over the years I have witnessed many meditators trying to squeeze
 themselves into forms which clearly don't fit, so perhaps some will find
 it helpful to know there is more than one way to climb a mountain.
@@ -271,7 +280,7 @@ Parents lovingly encourage their children to develop according to their
 abilities. Alert to the individual needs of their children, parents give
 them permission to experiment and to discover for themselves what works.
 Wise yoga teachers warn their students against using force as they
-become acquainted with the _asanas_. Hopefully, wise meditation teachers
+become acquainted with the _āsanas_. Hopefully, wise meditation teachers
 will also tune into the individual abilities and needs of their
 students, giving them the freedom to find out what works and encouraging
 them to ask what is it that, for them, truly nourishes authentic,

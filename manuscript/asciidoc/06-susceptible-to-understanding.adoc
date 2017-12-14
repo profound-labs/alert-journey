@@ -1,4 +1,4 @@
-= Susceptible to Understanding
+= Susceptible To Understanding
 
 A question has been asked regarding why we have Dhamma talks with most
 of the participants passive, when we could all be engaged in discussion
@@ -8,8 +8,8 @@ Dhamma.
 
 There is a way of listening to Dhamma talks which is well-known in the
 context of Asian Buddhism, but not always so well-known here. Because of
-the conditioning we have received, we are familiar with
-￹￹￹￹￹￹￹￹￹￹￹￹￹￹engaging in a discussion or in debate, or listening to a
+the conditioning we have received, we are familiar with engaging in a discussion
+or in debate, or listening to a
 lecture. Generally speaking, we are used to having our discriminative
 faculties stimulated. With quiet listening, or contemplative listening,
 we give our discriminating faculties a rest and exercise ‘simply
@@ -55,11 +55,12 @@ make ourselves as susceptible as possible to truth, to be able to hear
 beyond the mere surface appearance of the words. The aim is to get the
 whole message.
 
-In the Buddha's teaching known as the Discourse on Great Blessings, (4)
+In the Buddha's teaching known as the Discourse on Great
+Blessingsfootnote:[See <<end-notes#mahamangala-sutta, End Notes, Mahā-Maṅgala Sutta>>.],
 he speaks about the blessings that can arise from participating in
-_Dhammasavana_, which means listening to Dhamma teachings. In temples in
+_Dhammasavaṇa_, which means listening to Dhamma teachings. In temples in
 Thailand on the New Moon and Full Moon Observance Days, a teacher
-typically begins the talk for the occasion with, ‘Today is Dhammasavana
+typically begins the talk for the occasion with, ‘Today is Dhammasavaṇa
 day. Please establish your minds in a way fit for receiving these
 teachings from the Buddha.’ And it is not rare to find that when a talk
 is being delivering, a ritual fan is held in front of the teacher's
@@ -76,7 +77,7 @@ to be able to rest in inner stillness, fully attentive. The time for
 analyzing and debating can come later.
 
 In the Discourse on Great Blessings the Buddha also mentions the
-blessings that can arise from _Dhammasakaccha_, which means sharing in
+blessings that can arise from _Dhammasākacchā_, which means sharing in
 Dhamma dialogue or discussion. In this case we are making use of our
 analytical faculties, but for most of us they are probably well enough
 developed already. To be able to put our mental acumen to one side for
@@ -91,11 +92,11 @@ teachings on more subtle levels, with greater sensitivity, that we
 temporarily renounce our critical faculties.
 
 In many traditional Theravada monasteries there are depictions of the
-Buddha's chief disciples, Venerable Sariputta and Venerable Moggallana,
+Buddha's chief disciples, Venerable Sāriputta and Venerable Moggallāna,
 usually sitting to the left and right of the Buddha. Particularly in the
 Burmese tradition, these disciples are depicted with their heads tilted
 to one side, as it might be when listening attentively. When considering
-the etymology of the Pali word for ‘disciple’, _savaka,_ it is
+the etymology of the Pali word for ‘disciple’, _sāvaka,_ it is
 interesting to find that it literally means ‘one who hears’. The
 disposition of a good student is that of one who listens to what the
 teacher is saying. There is a misperception often found in Mahayana
@@ -105,7 +106,8 @@ misunderstanding. Literally, the translation is accurate. Accurately,
 however, these noble disciples could hear way beyond the words the
 Teacher spoke: to the spirit, to the essence, to Dhamma.
 
-_Contemplative Discernment_ +
+== Contemplative Discernment
+
 There was an occasion around 1977 or '78 when I was staying in Bangkok
 at a monastery called Wat Bovoranives, at the same time as Ajahn Chah
 was staying just outside Bangkok. A senior Western monk who usually
