@@ -199,10 +199,14 @@
   ItalicFont = Shaker 2 Light Italic,
 ]{Shaker 2 Light}
 
+\newfontfamily\hattoriFont[
+  ItalicFont = Hattori Hanzo Light Italic,
+]{Hattori Hanzo Light}
+
 % header and footer
 
-\newcommand\headerFont\merriweatherSansFont
-\newcommand\footerFont\merriweatherSansFont
+\newcommand\headerFont\hattoriFont
+\newcommand\footerFont\hattoriFont
 \newcommand\pageNumFont\merriweatherSansFont
 
 % chapter and section
@@ -898,7 +902,13 @@ philo-sophical munindo amaravati thai-land}
           \centering\setlength{\parskip}{10pt}%
           \color[gray]{0.4}%
           \headerFont\headerSize
-          U\\ N\\ E\\ X\\ P\\ E\\ C\\ T\\ E\\ D\par  F\\ R\\ E\\ E\\ D\\ O\\ M\par
+          A\\ L\\ E\\ R\\ T\par
+          T\\ O\par
+          T\\ H\\ E\par
+          N\\ E\\ E\\ D\\ S\par
+          O\\ F\par
+          T\\ H\\ E\par
+          J\\ O\\ U\\ R\\ N\\ E\\ Y\par
         \end{minipage}%
       }%
       \SetHorizontalCoffin\HeadNumberBox{%
