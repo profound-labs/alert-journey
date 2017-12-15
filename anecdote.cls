@@ -892,7 +892,7 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{mitsumi}
 
 \makeevenhead{mitsumi}{%
-  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -57.3pt},\LenToUnit{\paperheight - 22pt}){%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -57.3pt},\LenToUnit{\paperheight -30pt}){%
       \SetHorizontalCoffin\HeadTitleBox{%
         \begin{minipage}{\headLetterXWidth}%
           \centering\setlength{\parskip}{10pt}%
