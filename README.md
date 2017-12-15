@@ -3,14 +3,14 @@ Alert to the Needs of the Journey
 
 By Ajahn Munindo
 
-Paperback status: **IN PROGRESS**  
-Ebook status: **IN PROGRESS**
+Paperback status: **COMPLETED**  
+Ebook status: **COMPLETED**
 
 First edition
 
-ISBN for paperback: `000-000-0000-00-0`
+ISBN for paperback: `978-1-908444-61-5`
 
-ISBN for ebooks: `000-0-00000-000-0`
+ISBN for ebooks: `978-1-908444-62-2`
 
 See the final files in the `publish/final/` folder.
 

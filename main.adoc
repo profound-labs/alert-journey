@@ -3,7 +3,7 @@
 :author: Ajahn Munindo
 :creator: {author}
 :version: v1.0
-:revdate: 2017-12-06
+:revdate: 2017-12-15
 :doctype: book
 :lang: en
 :pubs-logo: aruno-pubs.jpg
@@ -13,7 +13,7 @@
 :source: https://ratanagiri.org.uk/
 :keywords: Dhamma, Buddhism, RELIGION / Buddhism / Theravada
 :copyright: CC-BY-NC-ND 4.0
-:isbn: 000-0-00000-000-0
+:isbn: 978-1-908444-62-2
 :identifier: isbn:{isbn}
 :imagesdir: assets/photos/92dpi-ebook-sRGB
 :includes: manuscript/asciidoc
