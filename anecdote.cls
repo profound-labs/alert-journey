@@ -1057,7 +1057,7 @@ philo-sophical munindo amaravati thai-land}
 {}
 
 \titlecontents{chapter}[\tocLeftWidth]
-{\addvspace{15pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
+{\addvspace{12pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
 {%
   \contentsmargin{0pt}%
   \makebox[0pt][r]{%
@@ -1285,7 +1285,7 @@ philo-sophical munindo amaravati thai-land}
 
 \makechapterstyle{shedir-high}{
   \chapterstyle{shedir}
-  \setlength{\beforechapskip}{0pt}
+  \setlength{\beforechapskip}{-\baselineskip}
 }
 
 \makechapterstyle{shedir-toc}{

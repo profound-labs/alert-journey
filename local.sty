@@ -7,15 +7,13 @@
   \renewcommand{\bibname}{Notes}
 }
 
-\setbiblabel{(#1)\hfill}
-
 % Default in latex.ltx
 %\def\@cite#1#2{[{#1\if@tempswa , #2\fi}]}
 
-\def\@cite#1#2{\textsuperscript{[{#1\if@tempswa , #2\fi}]}}
+\def\@cite#1#2{\textsuperscript{{#1\if@tempswa , #2\fi}}}
 
 % Yellow color page
-% Pantone 124M
-% CMYK 0, 27, 100, 8
+% Pantone 1245U
+% CMYK 0, 63, 237, 43
 
-\definecolor{frontyellow}{cmyk}{0,0.105,0.392,0.031}
+\definecolor{frontyellow}{cmyk}{0,0.247,0.929,0.168}

@@ -14,16 +14,6 @@ link:{publisher-link-url}[{publisher-link-name}]
 
 <<<<
 
-_Feedback_
-
-We would like to volunteer feedback about this publication, particularly
-regarding spelling errors in the text or difficulties in usability with ebook
-readers.
-
-To contact Aruno Publications, please write to: sangha@ratanagiri.org.uk
-
-<<<<
-
 [quote, Dhammapada v.91]
 ____
 Alert to the needs of the journey, +
