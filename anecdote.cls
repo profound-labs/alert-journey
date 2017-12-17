@@ -238,8 +238,8 @@
 % Some default font sizes, use \renewcommand to adjust
 
 \newcommand{\chapterNameSize}{\@setfontsize          \chapterNameSize          {22}{24}}
-\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {40}{40}}
-\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {18}{20}}
+\newcommand{\chapterNumberSize}{\@setfontsize        \chapterNumberSize        {38}{38}}
+\newcommand{\chapterTitleSize}{\@setfontsize         \chapterTitleSize         {17}{19}}
 \newcommand{\chapterTitleFootnoteSize}{\@setfontsize \chapterTitleFootnoteSize {16}{30}}
 \newcommand{\chapterAuthorSize}{\@setfontsize        \chapterAuthorSize        {12}{14}}
 \newcommand{\chapterNoteSize}{\@setfontsize          \chapterNoteSize          {10}{13}}
@@ -896,7 +896,7 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{mitsumi}
 
 \makeevenhead{mitsumi}{%
-  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -57.3pt},\LenToUnit{\paperheight -30pt}){%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\foremargin -47.3pt},\LenToUnit{\paperheight -30pt}){%
       \SetHorizontalCoffin\HeadTitleBox{%
         \begin{minipage}{\headLetterXWidth}%
           \centering\setlength{\parskip}{10pt}%
@@ -932,7 +932,7 @@ philo-sophical munindo amaravati thai-land}
 \makeoddhead{mitsumi}{}{}{}
 
 \makeoddfoot{mitsumi}{}{}{%
-  \AddToShipoutPictureFG*{\put(\LenToUnit{\spinemargin + \textwidth + 38pt},\LenToUnit{30pt}){%
+  \AddToShipoutPictureFG*{\put(\LenToUnit{\spinemargin + \textwidth + 28pt},\LenToUnit{30pt}){%
       \SetHorizontalCoffin\FootTitleBox{%
         \begin{minipage}{\headLetterXWidth}%
           \centering\setlength{\parskip}{10pt}%
@@ -1416,8 +1416,8 @@ philo-sophical munindo amaravati thai-land}
 
 % === setup page layout ===
 
-\setlength{\BOOK@paperHeight}{9in}
-\setlength{\BOOK@paperWidth}{6in}
+\setlength{\BOOK@paperHeight}{8in}
+\setlength{\BOOK@paperWidth}{5.25in}
 
 \ifshowtrims
   \stockaiv% use A4 paper size to show trims
@@ -1434,10 +1434,8 @@ philo-sophical munindo amaravati thai-land}
   \settrims{0pt}{0pt}
 \fi
 
-% It won't be exactly 33 lines because of the parskip,
-% but close enough for our purpose.
-\settypeblocksize{32\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
-\setlrmargins{*}{*}{1.125}% 1/0.889 major 2nd
+\settypeblocksize{28\baselineskip + \topskip}{*}{0.577}% 1/1.732 (sqrt(3)), Hexagon
+\setlrmargins{*}{20mm}{*}%
 \setulmargins{*}{*}{1.701}% Tall Pentagon, 1.701
 
 \setlength{\footskip}{45pt}
@@ -1452,6 +1450,44 @@ philo-sophical munindo amaravati thai-land}
 % It is useful to see layout values in mm too.
 \settypeoutlayoutunit{mm}
 \typeoutlayout
+
+% ******************************************************
+% Stock height and width: 578.15999pt by 379.4175pt
+% Top and edge trims: 0pt and 0pt
+% Page height and width: 578.15999pt by 379.4175pt
+% Text height and width: 443pt by 255pt
+% Spine and edge margins: 66.90283pt and 56.9055pt
+% Upper and lower margins: 50.03357pt and 85.12642pt
+% Headheight and headsep: 15.6pt and 19.8738pt
+% Footskip: 45pt
+% Columnsep and columnseprule: 10pt and 0pt
+% Marginparsep and marginparwidth: 7pt and 42.9055pt
+% Sidecapsep and sidecapwidth: 7pt and 111pt
+% Sidebarhsep and sidebarwidth: 7pt and 111pt
+% Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+% Sidebarheight: 539.9202pt
+% Sidefoothsep and sidefootwidth: 7pt and 111pt
+% Sidefootvsep and sidefootheight: 13.6pt and 539.9202pt
+% ******************************************************
+%
+% ******************************************************
+% Stock height and width: 203.19762mm by 133.34843mm
+% Top and edge trims: 0mm and 0mm
+% Page height and width: 203.19762mm by 133.34843mm
+% Text height and width: 155.69487mm by 89.6212mm
+% Spine and edge margins: 23.51337mm and 19.99976mm
+% Upper and lower margins: 17.58458mm and 29.91815mm
+% Headheight and headsep: 5.4827mm and 6.98476mm
+% Footskip: 15.8155mm
+% Columnsep and columnseprule: 3.51456mm and 0mm
+% Marginparsep and marginparwidth: 2.46019mm and 15.07938mm
+% Sidecapsep and sidecapwidth: 2.46019mm and 39.01158mm
+% Sidebarhsep and sidebarwidth: 2.46019mm and 39.01158mm
+% Sidebarvsep and sidebartopsep: 4.77979mm and 0mm
+% Sidebarheight: 189.75801mm
+% Sidefoothsep and sidefootwidth: 2.46019mm and 39.01158mm
+% Sidefootvsep and sidefootheight: 4.77979mm and 189.75801mm
+% ******************************************************
 
 % Math sizes for superscript sizes
 \DeclareMathSizes{12.5}{12.5}{7}{7}
