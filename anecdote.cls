@@ -164,22 +164,10 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  SmallCapsFont = Crimson Roman,
-  SmallCapsFeatures= { Ligatures = TeX, Letters = SmallCaps, Scale = 0.8, LetterSpace = 0.2 },
   ItalicFont = Gentium Plus Italic,
   BoldFont = Gentium Book Basic Bold,
   BoldItalicFont = Gentium Book Basic Bold Italic,
 ]{Gentium Plus}
-
-\newfontfamily\crimsonRomanFont[
-  SmallCapsFeatures= { LetterSpace = 0.2 },
-  BoldFont = Crimson Semibold,
-  ItalicFont = Crimson Italic,
-]{Crimson Roman}
-
-\newfontfamily\crimsonRomanFontOldNum[
-  Numbers = OldStyle,
-]{Crimson Roman}
 
 \newfontfamily\gentiumFont[
   ItalicFont = Gentium Plus Italic,
@@ -203,6 +191,11 @@
   ItalicFont = Hattori Hanzo Light Italic,
 ]{Hattori Hanzo Light}
 
+\newfontfamily\sortsMillGoudyFont[
+  Path = {./assets/fonts/},
+  ItalicFont = OFLGoudyStM-Italic.otf,
+]{OFLGoudyStM.otf}
+
 % header and footer
 
 \newcommand\headerFont\hattoriFont
@@ -219,11 +212,11 @@
 \newcommand\chapterAuthorFont\shakerLightFont
 \newcommand\chapterNoteFont\shakerLightFont
 
-\newcommand\sectionFont\crimsonRomanFont
+\newcommand\sectionFont\sortsMillGoudyFont
 
 % quote
 
-\newcommand\sideruleQuoteFont\crimsonRomanFont
+\newcommand\sideruleQuoteFont\sortsMillGoudyFont
 
 % toc
 
@@ -1043,18 +1036,6 @@ philo-sophical munindo amaravati thai-land}
 
 % FIXME: the first Part heading in the TOC will also add that 20pt
 % vspace. How to add it only before a Part that follows a Chapter?
-
-\titlecontents{part}[\tocLeftWidth]
-{\addvspace{25pt}%
-\fontsize{11}{11}\crimsonRomanFont\selectfont}%
-{%
-  \contentsmargin{0pt}%
-  \thecontentslabel.\space
-  \hspace*{1em}%
-  \MakeUppercase
-}
-{\contentsmargin{0pt}}
-{}
 
 \titlecontents{chapter}[\tocLeftWidth]
 {\addvspace{12pt}\fontsize{13}{13}\tocChapterFont\selectfont}%
