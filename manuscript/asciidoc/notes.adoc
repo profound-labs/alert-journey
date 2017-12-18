@@ -2,29 +2,29 @@
 = Notes
 
 [[dhammapada-aruno]]
-*(1)* _A Dhammapada For Contemplation_, Aruno Publications, 2017
+*[1]* _A Dhammapada For Contemplation_, Aruno Publications, 2017
 
 https://forestsangha.org/teachings/books/a-dhammapada-for-contemplation?language=English
 
 [[ajahn-thate]]
-*(2)* _Ajahn Thate_ (1902-1994)
+*[2]* _Ajahn Thate_ (1902-1994)
 
 One of the most influential Thai Forest Tradition monks of the last century.
 
 https://www.accesstoinsight.org/lib/thai/thate/thateauto.html
 
 [[mahasaropama-sutta]]
-*(3)* _MN 29, Mahā-Sāropama Sutta: The Longer Heartwood-simile Discourse_
+*[3]* _MN 29, Mahā-Sāropama Sutta: The Longer Heartwood-simile Discourse_
 
 https://www.accesstoinsight.org/tipitaka/mn/mn.029.than.html
 
 [[mahamangala-sutta]]
-*(4)* _Snp 2.4, Mahā-Maṅgala Sutta: Blessings_
+*[4]* _Snp 2.4, Mahā-Maṅgala Sutta: Blessings_
 
 https://www.accesstoinsight.org/tipitaka/kn/snp/snp.2.04.nara.html
 
 [[dhutanga]]
-*(5)* _Dhutaṅga vaṭṭa_
+*[5]* _Dhutaṅga vaṭṭa_
 
 Voluntary ascetic practices that practitioners may undertake from time to time
 or as a long-term commitment in order to cultivate renunciation and
@@ -38,29 +38,29 @@ cemetery; (12) being content with whatever dwelling one has; (13) not lying
 down.
 
 [[faculties]]
-*(6)* _Five spiritual faculties_
+*[6]* _Five spiritual faculties_
 
 _Saddhā_ (faith, conviction), _viriya_ (persistence, energy, interest),
 _sati_ (mindfulness), _samādhi_ (concentration), and _paññā_ (discernment).
 
 [[hsu-yun]]
-*(7)* _Master Hsu Yun_ (1840-1959)
+*[7]* _Master Hsu Yun_ (1840-1959)
 
 One of the most influential Chinese Buddhists of the last two centuries. See
 his autobiography Empty Cloud. Died aged 119 years.
 
 [[seeing-vol2]]
-*(8)* _Seeing the Way, Volume 2_
+*[8]* _Seeing the Way, Volume 2_
 
 https://forestsangha.org/teachings/books/seeing-the-way-vol-two?language=English
 
 [[four-noble-truths]]
-*(9)* _The Four Noble Truths_ by Ajahn Sumedho
+*[9]* _The Four Noble Truths_ by Ajahn Sumedho
 
 https://forestsangha.org/teachings/books/the-four-noble-truths?language=English
 
 [[dhp-attahi]]
-*(10)* _Dhammapada verse 160, ‘Attā hi attano nātho...’_
+*[10]* _Dhammapada verse 160, ‘Attā hi attano nātho...’_
 
 Truly it is ourselves +
 that we depend upon; +
@@ -71,12 +71,12 @@ of self-reliance +
 we find a rare refuge.
 
 [[inner-listening]]
-*(11)* _Inner Listening_ by Ajahn Amaro
+*[11]* _Inner Listening_ by Ajahn Amaro
 
 https://forestsangha.org/teachings/books/inner-listening?language=English
 
 [[dhp-276]]
-*(12)* _Dhammapada verse 276_
+*[12]* _Dhammapada verse 276_
 
 The Awakened Ones +
 can but point the way; +
@@ -86,12 +86,12 @@ and enter the path are freed +
 from the fetters of Mara.
 
 [[gospel]]
-*(13)* _The Gospel of Consumption_
+*[13]* _The Gospel of Consumption_
 
 https://orionmagazine.org/article/the-gospel-of-consumption/
 
 [[right-effort]]
-*(14)* _The Four Right Efforts_
+*[14]* _The Four Right Efforts_
 
 - The effort to establish as yet unarisen wholesome states of mind.
 - The effort to protect already arisen wholesome states of mind.
@@ -99,12 +99,12 @@ https://orionmagazine.org/article/the-gospel-of-consumption/
 - The effort to avoid the arising of as yet unarisen unwholesome states of mind.
 
 [[aj-sumedho-sound-of-silence]]
-*(15)* _The Sound of Silence_ by Ajahn Sumedho
+*[15]* _The Sound of Silence_ by Ajahn Sumedho
 
 https://forestsangha.org/teachings/books/anthology-vol-4-the-sound-of-silence?language=English
 
 [[worldly-dhammas]]
-*(16)* _AN 8.6, Lokavipatti Sutta: The Failings of the World_
+*[16]* _AN 8.6, Lokavipatti Sutta: The Failings of the World_
 
 The Eight Worldly Dhammas are described as: gain and loss, status and
 disgrace, praise and blame, pleasure and pain.
@@ -112,6 +112,6 @@ disgrace, praise and blame, pleasure and pain.
 https://www.accesstoinsight.org/tipitaka/an/an08/an08.006.than.html
 
 [[anapanasati]]
-*(17)* _MN 118, Ānāpānasati Sutta: Mindfulness of Breathing_
+*[17]* _MN 118, Ānāpānasati Sutta: Mindfulness of Breathing_
 
 https://www.accesstoinsight.org/tipitaka/mn/mn.118.than.html
