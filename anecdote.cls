@@ -146,7 +146,7 @@
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.3}
+\definecolor{section}{gray}{0.5}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -238,7 +238,7 @@
 
 \newcommand{\copyrightsize}{\@setfontsize\copyrightsize{9}{11}}
 
-\newcommand{\urlsize}{\@setfontsize\urlsize{8}{8}}
+\newcommand{\urlsize}{\@setfontsize\urlsize{7}{7}}
 
 % foreign language wrappers
 
@@ -251,6 +251,7 @@
 \RequirePackage[final,babel=true]{microtype}
 
 \SetTracking[spacing={350,100,}]{encoding=*, family=Shaker 2 Light}{40}
+\SetTracking[spacing={500,100,}]{encoding=*, family=Hattori_Hanzo.otf}{100}
 
 % === hyperref ===
 
