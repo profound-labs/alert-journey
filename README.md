@@ -14,9 +14,8 @@ ISBN for ebooks: `978-1-908444-62-2`
 
 See the final files in the `publish/final/` folder.
 
-Total page count = 112  
-Page size: 5.25in x 8in = 133.35mm x 203.2mm  
-Spine width 6.936mm = (112 / 2) * 0.106 + 1
+Total page count = 138  
+Page size: 5.25in x 8in = 133.35mm x 203.2mm
 
 Based on [prophecy-template].
 
