@@ -157,6 +157,8 @@
 % === Load fonts ===
 
 \RequirePackage{fontspec}
+% Can't set Path = {./assets/fonts/} as default for all fonts because Shaker is
+% not free to distribute, so it has to be set individually.
 \defaultfontfeatures{Ligatures={TeX}}
 
 % If -- dashes don't work for your font, try
@@ -164,37 +166,29 @@
 % http://tex.stackexchange.com/questions/20580/how-to-enable-ligatures-for-emdash-endash-in-luatex
 
 \setmainfont[
-  ItalicFont = Gentium Plus Italic,
-  BoldFont = Gentium Book Basic Bold,
-  BoldItalicFont = Gentium Book Basic Bold Italic,
-]{Gentium Plus}
-
-\newfontfamily\gentiumFont[
-  ItalicFont = Gentium Plus Italic,
-  BoldFont = Gentium Book Basic Bold,
-  BoldItalicFont = Gentium Book Basic Bold Italic,
-]{Gentium Plus}
+  Path = {./assets/fonts/},
+  ItalicFont = GentiumPlus-I.ttf,
+  BoldFont = GenBkBasB.ttf,
+  BoldItalicFont = GenBkBasBI.ttf,
+]{GentiumPlus-R.ttf}
 
 \newfontfamily\merriweatherSansFont[
-  ItalicFont = Merriweather Sans Italic,
-]{Merriweather Sans}
+  Path = {./assets/fonts/},
+  ItalicFont = MerriweatherSans-Italic.otf,
+]{MerriweatherSans-Regular.otf}
 
 \newfontfamily\merriweatherSansLightFont[
-  ItalicFont = Merriweather Sans Light Italic,
-]{Merriweather Sans Light}
+  Path = {./assets/fonts/},
+  ItalicFont = MerriweatherSans-LightItalic.otf,
+]{MerriweatherSans-Light.otf}
 
 \newfontfamily\shakerLightFont[
   ItalicFont = Shaker 2 Light Italic,
 ]{Shaker 2 Light}
 
 \newfontfamily\hattoriFont[
-  ItalicFont = Hattori Hanzo Light Italic,
-]{Hattori Hanzo Light}
-
-\newfontfamily\sortsMillGoudyFont[
   Path = {./assets/fonts/},
-  ItalicFont = OFLGoudyStM-Italic.otf,
-]{OFLGoudyStM.otf}
+]{Hattori_Hanzo.otf}
 
 % header and footer
 
@@ -212,11 +206,11 @@
 \newcommand\chapterAuthorFont\shakerLightFont
 \newcommand\chapterNoteFont\shakerLightFont
 
-\newcommand\sectionFont\sortsMillGoudyFont
+\newcommand\sectionFont\hattoriFont
 
 % quote
 
-\newcommand\sideruleQuoteFont\sortsMillGoudyFont
+\newcommand\sideruleQuoteFont\hattoriFont
 
 % toc
 
@@ -717,7 +711,7 @@ philo-sophical munindo amaravati thai-land}
   \par%
   {%
     \centering%
-    \gentiumFont%
+    \normalfont%
     \fontsize{20}{20}\selectfont%
     \color[gray]{0.7}%
     *\quad*\quad*%
@@ -1319,7 +1313,7 @@ philo-sophical munindo amaravati thai-land}
 % With no glue, the space will be at the bottom of the text block instead.
 
 \setbeforesecskip{-3.5ex \@plus -1ex \@minus -.2ex}
-\setaftersecskip{2.3ex \@plus .2ex}
+\setaftersecskip{1ex}
 
 \setbeforesubsecskip{-3.5ex \@plus -1ex \@minus -.2ex}
 \setaftersubsecskip{2.3ex}
@@ -1332,10 +1326,10 @@ philo-sophical munindo amaravati thai-land}
 %\setsechook{\setsecnumformat{\thesection.\space}}
 
 \newcommand\sectionFmt[1]{%
-  \sectionFont\fontsize{13}{15}\selectfont%
+  \sectionFont\fontsize{9}{12}\selectfont%
   \color{section}%
   \memRTLraggedright%
-  \itshape #1%
+  \textls*{\MakeUppercase{#1}}%
 }
 
 \newcommand\subsectionFmt[1]{%
@@ -1346,7 +1340,7 @@ philo-sophical munindo amaravati thai-land}
 }
 
 \newcommand\subsubsectionFmt[1]{%
-  \gentiumFont\normalsize\itshape\color[gray]{0.1}%
+  \normalfont\normalsize\itshape\color[gray]{0.1}%
   \memRTLraggedright%
   #1
 }
