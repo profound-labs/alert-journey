@@ -908,7 +908,7 @@ philo-sophical munindo amaravati thai-land}
         }%
       }%
       \SetHorizontalCoffin\HeadRuleBox{%
-        \color[gray]{0.4}\rule{0.2pt}{90mm}%
+        \color[gray]{0.6}\rule{0.2pt}{90mm}%
       }%
       \JoinCoffins*\HeadNumberBox[r,t]\HeadRuleBox[r,t](7pt, 0pt)%
       \JoinCoffins*\HeadNumberBox[r,t]\HeadTitleBox[r,t](0pt, -25pt)%
@@ -938,7 +938,7 @@ philo-sophical munindo amaravati thai-land}
         }%
       }%
       \SetHorizontalCoffin\FootRuleBox{%
-        \color[gray]{0.4}\rule{0.2pt}{90mm}%
+        \color[gray]{0.6}\rule{0.2pt}{90mm}%
       }%
       \JoinCoffins*\FootNumberBox[l,b]\FootRuleBox[l,b](-7pt, 0pt)%
       \JoinCoffins*\FootNumberBox[l,t]\FootTitleBox[l,b](0pt, 46pt)%
