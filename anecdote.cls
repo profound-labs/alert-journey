@@ -969,7 +969,7 @@ philo-sophical munindo amaravati thai-land}
 % alias the pagestyles into semantic names, "where it is used"
 
 \aliaspagestyle{normalpage}{mitsumi}
-\aliaspagestyle{chapter}{bottomcenter}
+\aliaspagestyle{chapter}{empty}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{afterpart}{empty}
