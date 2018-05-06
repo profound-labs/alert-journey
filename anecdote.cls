@@ -140,13 +140,13 @@
 \definecolor{textbody}{gray}{0.05}% 95% is good for contrast, on yellowish paper it is not harsh.
 \definecolor{footnoterule}{gray}{0.5}
 \definecolor{header}{gray}{0.2}
-\definecolor{footer}{gray}{0.2}
+\definecolor{footer}{gray}{0.3}
 \definecolor{chapternum}{gray}{0.8}
 \definecolor{chaptertitle}{gray}{0.3}
 \definecolor{chaptertitlefootnote}{gray}{0.4}
 \definecolor{chapterauthor}{gray}{0.3}
 \definecolor{chapternote}{gray}{0.3}
-\definecolor{section}{gray}{0.5}
+\definecolor{section}{gray}{0.3}
 \definecolor{tocleftside}{gray}{0.5}
 \definecolor{tocleftsidepart}{gray}{0.2}
 \definecolor{partname}{gray}{0.5}
@@ -857,15 +857,15 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcorner}
 \makeevenhead{bottomcorner}{}{}{}
 \makeevenfoot{bottomcorner}{%
-  \footerFont\footerSize%
+  \pageNumFont\pageNumSize%
   \color{footer}%
-  \thepage\hspace*{1em}$\cdot$\hspace*{1em}\textit{\thetitle}%
+  \thepage
 }{}{}
 \makeoddhead{bottomcorner}{}{}{}
 \makeoddfoot{bottomcorner}{}{}{%
-  \footerFont\footerSize%
+  \pageNumFont\pageNumSize%
   \color{footer}%
-  \textit{\leftmark}\hspace*{1em}$\cdot$\hspace*{1em}\thepage%
+  \thepage
 }
 
 \NewCoffin\HeadWrapBox
@@ -955,20 +955,20 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \color[gray]{0.4}%
   \pageNumFont\pageNumSize%
+  \color{footer}%
   \thepage%
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \color[gray]{0.4}%
   \pageNumFont\pageNumSize%
+  \color{footer}%
   \thepage%
 }{}
 
 % alias the pagestyles into semantic names, "where it is used"
 
-\aliaspagestyle{normalpage}{mitsumi}
+\aliaspagestyle{normalpage}{bottomcorner}
 \aliaspagestyle{chapter}{empty}
 \aliaspagestyle{book}{empty}
 \aliaspagestyle{part}{empty}
