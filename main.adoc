@@ -3,7 +3,7 @@
 :author: Ajahn Munindo
 :creator: {author}
 :version: v1.0
-:revdate: 2017-12-15
+:revdate: 2018-08-23
 :doctype: book
 :lang: en
 :pubs-logo: aruno-pubs.jpg
